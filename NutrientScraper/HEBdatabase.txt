@@ -1,0 +1,557 @@
+Margaret Holmes Peanut Patch Green Boiled Peanut,0.25,cup,34,0,100,4,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1.5,0,0,0,0,3,2,0,0,0,0,0,0.36,0,0,0,7680,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,0.98,6,Dried Fruits and Nuts
+Woodstock Farms Organic Tequila Lime Almonds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,18.49,0,Dried Fruits and Nuts
+H-E-B Fancy Whole Cashews - Raw,0.25,cup,30,0,170,5,0,0,0,0,0,0,0,0,0,0,0,0,0,13,2.5,0,0,0,0,9,1,2,0,0,0,20,1.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,7.99,14,Dried Fruits and Nuts
+Blue Diamond Toasted Coconut Oven Roasted Almonds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,7.96,0,Dried Fruits and Nuts
+H-E-B Energy Power Mix,0.25,cup,30,0,140,3,0,0,0,0,0,0,0,0,0,0,0,0,0,7,3,0,0,0,0,17,2,13,0,0,0,40,0.72,0,0,0,1080,0,0,0,0,0,100,0,0,0,0,0,0,0,9,0,0,0,H-E-B,3.99,8,Dried Fruits and Nuts
+Planters Honey Roasted Peanuts Tube,1,pack,49,0,280,12,0,0,0,0,0,0,0,0,0,0,0,0,0,23,3,11,7,0,0,12,4,6,0,0,0,40,1.8,80,150,11200,3600,0,0,0.9,0,0,0,0,0,6,0,0,0,0,0,0,5.4,0,H-E-B,0.5,0,Dried Fruits and Nuts
+Planters Cocktail Peanuts,1,oz,28,0,170,7,0,0,0,0,0,0,0,0,0,0,0,0,0,14,2,7,4.5,0,0,5,2,1,0,0,0,20,0.72,40,100,7000,2280,0,0,0.5,0,0,0,0,0,4,0,0,0,0,0,0,2.7,0,H-E-B,3.5,16,Dried Fruits and Nuts
+Planters Dry Roasted Unsalted Peanuts,1,oz,28,0,170,8,0,0,0,0,0,0,0,0,0,0,0,0,0,14,2,7,4.5,0,0,5,2,1,0,0,0,20,1.44,0,0,7350,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.5,16,Dried Fruits and Nuts
+Planters Nut-Rition Mens Health Mixed Nuts,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.48,0,Dried Fruits and Nuts
+Ellis Pecan Company Pistachios Roasted Salted,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,7.99,0,Dried Fruits and Nuts
+H-E-B Select Ingredients Whole Roasted and Salted Cashews,1,oz,28,0,170,5,0,0,0,0,0,0,0,0,0,0,0,0,0,13,2.5,7,2.5,0,0,8,1,1,0,0,0,20,1.44,60,150,0,2880,1.2,0.5,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,19.78,32,Dried Fruits and Nuts
+Samurai Peanuts With Lemon,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3,0,Dried Fruits and Nuts
+SunRidge Farms Golden Bridge Candy Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.99,0,Candy
+Jansal Valley Dried Pears,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.99,0,Dried Fruits and Nuts
+SunRidge Farms Zesta Fiesta Party Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.79,0,Dried Fruits and Nuts
+Hill Country Fare Cashew Pieces,0.25,cup,28,0,160,5,0,0,0,0,0,0,0,0,0,0,0,0,0,14,2.5,7,2.5,0,0,9,1,1,0,0,0,20,1.8,0,0,6300,2040,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.25,2,Dried Fruits and Nuts
+Lance Fresh Roasted Salted Peanuts,0,,0,0,200,9,0,0,0,0,0,0,0,0,0,0,0,0,0,15,2.5,0,0,0,0,6,4,0,0,0,0,0,0.72,0,0,0,3600,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.68,0,Dried Fruits and Nuts
+Blue Diamond Bold Wasabi And Soy Sauce Almonds Value Pack,1,oz,28,0,170,6,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,0,0,0,0,6,3,2,0,0,0,80,1.08,80,0,6300,2760,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.45,0,H-E-B,8.98,16,Dried Fruits and Nuts
+Lone Star Nut &amp; Candy Pumpkin Seeds Dry Roasted &amp; Salted, sold by the,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,8.49,0,Dried Fruits and Nuts
+H-E-B Nuts About PB Trail Mix,0.25,cup,30,0,160,5,0,0,0,0,0,0,0,0,0,0,0,0,0,10,4,3,2,0,0,14,2,8,0,0,0,20,0.36,0,0,4375,2880,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.98,8,Dried Fruits and Nuts
+Gourmet Nut Power Up High Energy Trail Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.99,0,Dried Fruits and Nuts
+AustiNuts Salted Almonds,1,oz,28,0,170,6,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,0,0,0,0,5,3,1,0,0,0,80,1.44,0,0,0,5280,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.2,7,Dried Fruits and Nuts
+SunRidge Farms Cranberry Fiesta Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.49,0,Dried Fruits and Nuts
+Planters Lightly Salted Halves And Pieces Cashews,50,pieces,28,0,160,5,0,0,0,0,0,0,0,0,0,0,0,0,0,13,2.5,7,2.5,0,0,9,1,2,0,0,0,0,1.8,80,150,6650,1080,1.5,0.6,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.88,8,Dried Fruits and Nuts
+H-E-B Select Ingredients Stachio Berry Trail Mix,0.25,cup,30,0,160,4,0,0,0,0,0,0,0,0,0,0,0,0,0,10,2.5,4.5,2,0,0,15,2,11,0,0,0,40,0.72,0,0,6300,1680,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.98,9,Dried Fruits and Nuts
+Planters Cocktail Peanuts,1,oz,28,0,170,7,0,0,0,0,0,0,0,0,0,0,0,0,0,14,2,7,4.5,0,0,5,2,1,0,0,0,20,0.72,40,100,7000,2280,0,0,0.5,0,0,0,0,0,4,0,0,0,0,0,0,2.7,0,H-E-B,3.18,12,Dried Fruits and Nuts
+H-E-B Organics Dry Roasted Almonds, Unsalted,0.25,cups,30,0,190,7,0,0,0,0,0,0,0,0,0,0,0,0,0,16,1,0,0,0,0,6,3,1,0,0,0,80,1.44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,7.97,9,Dried Fruits and Nuts
+AustiNuts Lone Star Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.99,0,Dried Fruits and Nuts
+H-E-B Select Ingredients Unsalted Dry Roasted Peanuts,0.25,cup,31,0,180,8,0,0,0,0,0,0,0,0,0,0,0,0,0,15,2.5,8,3,0,0,7,3,2,0,0,0,20,0.36,60,100,7000,0,0,0,0.6,0,0,0,0,0,4,0,0,0,0,0,0,0,0,H-E-B,5.88,32,Dried Fruits and Nuts
+Lone Star Nut &amp; Candy Sweet and Salty Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.99,0,Dried Fruits and Nuts
+SunRidge Farms Treasure Trove Sweet Snack Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.99,0,Dried Fruits and Nuts
+Central Market Harvest Trail Mix,0.25,cup,30,0,130,3,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0.5,0,0,0,0,16,2,11,0,0,0,40,0.72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.99,9.5,Dried Fruits and Nuts
+Emerald Cocoa Roast Almonds,1,oz,28,0,160,6,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1,0,0,0,0,7,3,1,0,0,0,80,1.08,0,0,0,600,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.94,5,Dried Fruits and Nuts
+Fresh Okra Chips,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,10.49,0,Dried Fruits and Nuts
+H-E-B Honey Roasted Cashews,3,tbsp,26,0,150,4,0,0,0,0,0,0,0,0,0,0,0,0,0,11,2,6,2,0,0,9,1,3,0,0,0,20,1.44,60,100,0,1560,1.2,0.6,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.98,9,Dried Fruits and Nuts
+Frito Lay Ranch Sunflower Seeds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,0.44,0,Dried Fruits and Nuts
+SunRidge Farms Brazil Nuts Raw,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,15.99,0,Dried Fruits and Nuts
+H-E-B Organic Banana Chips,18,pieces,40,0,210,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,13,0,0,0,0,17,1,11,0,0,0,100,0.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.53,6,Dried Fruits and Nuts
+H-E-B Organics Banana Chips, Sweetened,0.25,cup,40,0,210,1,0,0,0,0,0,0,0,0,0,0,0,0,0,13,12,0,0,0,0,23,3,14,0,0,0,0,0.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.4,0,0,0,H-E-B,2.37,3,Dried Fruits and Nuts
+Blue Diamond Bold Habanero BBQ Almonds,1,oz,28,0,170,6,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,0,0,0,0,5,3,2,0,0,0,80,1.08,80,0,6300,2400,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.45,0,H-E-B,8.98,16,Dried Fruits and Nuts
+Nutty And Fruity Cantaloupe Soft Dry,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.99,0,Dried Fruits and Nuts
+Lone Star Nut &amp; Candy Coconut Chip Flakes,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.79,0,Dried Fruits and Nuts
+Samurai Habanero Chili Peanuts,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,0.99,0,Dried Fruits and Nuts
+SunRidge Farms Crystallized Ginger Chunks,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.99,0,Dried Fruits and Nuts
+SunRidge Farms Unsweetened Organic Mango Slices,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,13.99,0,Dried Fruits and Nuts
+SunRidge Farms Chocolate Nut Crunch Trail Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.99,0,Dried Fruits and Nuts
+Blue Diamond Smokehouse Almonds Value Pack,28,nuts,28,0,170,6,0,0,0,0,0,0,0,0,0,0,0,0,0,16,1,0,0,0,0,5,3,1,0,0,0,80,1.08,80,0,6650,3600,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.45,0,H-E-B,8.98,16,Dried Fruits and Nuts
+Planters Dry Roasted Lightly Salted Peanuts,1,oz,28,0,170,7,0,0,0,0,0,0,0,0,0,0,0,0,0,14,2,7,4.5,0,0,5,2,1,0,0,0,20,1.44,40,100,7000,1680,0,0,0.6,0,0,0,0,0,4,0,0,0,0,0,0,2.7,0,H-E-B,3.5,16,Dried Fruits and Nuts
+Mariani Whole Natural California Almonds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,7.98,0,Dried Fruits and Nuts
+Mariani Banana Chips,0.33,cup,30,0,160,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,7,0,0,0,0,19,4,5,0,0,0,0,0.36,24,20,4900,0,0,0,0.4,0,0,100,0,0.034,0.4,0,0,32,0,1.2,0,0,0,H-E-B,1.84,6,Dried Fruits and Nuts
+SunRidge Farms Salted Sesame Sticks,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.69,0,Dried Fruits and Nuts
+H-E-B Honey Roasted Peanuts,0.25,cup,28,0,170,6,0,0,0,0,0,0,0,0,0,0,0,0,0,13,2.5,7,3.5,0,0,7,1,4,0,0,0,20,0.36,40,0,0,2640,0,0,0.4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,H-E-B,2.58,12,Dried Fruits and Nuts
+Jordan Almonds Pre-packed Hatch Green Chili Cashews,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.99,0,Dried Fruits and Nuts
+SunRidge Farms Men's Energy Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.99,0,Dried Fruits and Nuts
+Just Tomatoes, Etc.! Just Apples,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.19,0,Dried Fruits and Nuts
+Just Tomatoes, Etc.! Just Cranberries,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.99,0,Dried Fruits and Nuts
+H-E-B Select Ingredients City Street Nuts Austin Style Pecans,17,pieces,30,0,210,3,0,0,0,0,0,0,0,0,0,0,0,0,0,21,2,0,0,0,0,4,3,1,0,0,0,20,0.72,0,0,4200,7440,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.98,7,Dried Fruits and Nuts
+Central Market Jumbo Salted Virginia Peanuts,1,oz,28,0,170,7,0,0,0,0,0,0,0,0,0,0,0,0,0,13,1.5,0,0,0,0,7,5,1,0,0,0,20,0.36,0,0,0,720,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.49,10,Dried Fruits and Nuts
+Woodstock Farms Organic Tequila Lime Pumpkin Seeds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,8.19,0,Dried Fruits and Nuts
+H-E-B Organics Sunflower Seeds, Dry Roasted and Salted,0.25,cups,30,0,170,7,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1.5,0,0,0,0,6,3,1,0,0,0,40,1.8,0,0,0,2520,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.77,9,Dried Fruits and Nuts
+SunRidge Farms Pistachios - Roasted and Salted,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,8.99,0,Dried Fruits and Nuts
+Hill Country Fare Hot Snack Mixes,0.25,cup,28,0,150,7,0,0,0,0,0,0,0,0,0,0,0,0,0,10,2,0,0,0,0,9,1,0,0,0,0,20,0.36,0,0,0,6000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.98,7,Dried Fruits and Nuts
+Sunsweet Pacific Tropicals Mango, Philippine,0.25,cup,40,0,130,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,1,24,0,0,0,0,0.36,0,0,4725,2400,0,0,0,0,0,1250,0,0,0,0,0,0,0,21,0,0,0,H-E-B,4.99,3.5,Dried Fruits and Nuts
+Bulk Raw Almonds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,10.29,0,Dried Fruits and Nuts
+H-E-B Select Ingredients Unsalted Dry Roasted Pistachios,0.25,cup,28,0,170,7,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1.5,0,0,0,0,7,3,2,0,0,0,20,1.08,0,100,9450,0,0,0.3,0.3,0,0,0,0.15,0,0,0,0,0,0,0,0,0,0,H-E-B,4.98,6,Dried Fruits and Nuts
+SunRidge Farms Hatch Green Chile Roasted Almonds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,9.99,0,Dried Fruits and Nuts
+Mariani Chopped Dates,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.35,0,Dried Fruits and Nuts
+AustiNuts Cashews, Dry Roasted, Cayenne,1,oz,28,0,160,4,0,0,0,0,0,0,0,0,0,0,0,0,0,13,3,0,0,0,0,9,1,0,0,0,0,0,1.8,0,0,0,2640,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.99,8,Dried Fruits and Nuts
+Brothers All Natural Fuji Apple Freeze-Dried Fruit Crisps,0.5,cup,10,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,0.88,0,Dried Fruits and Nuts
+Just Tomatoes, Etc.! Just Peaches,1.5,oz,42,0,140,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,5,30,0,0,0,0,2.7,0,0,0,0,0,0,0,0,0,500,0,0,0,0,0,0,0,4.8,0,0,0,H-E-B,4.99,1,Dried Fruits and Nuts
+H-E-B Roasted and Salted Peanuts,0.25,cup,28,0,160,7,0,0,0,0,0,0,0,0,0,0,0,0,0,14,2,7,4.5,0,0,5,2,1,0,0,0,20,0.36,60,150,6650,2640,1.5,0.4,0.6,0,0,0,0,0,4,0,0,0,0,0,0,0,0,H-E-B,5.88,35,Dried Fruits and Nuts
+H-E-B Hit The Trail Trail Mix,1,package,71,0,350,9,0,0,0,0,0,0,0,0,0,0,0,0,0,17,4,9,3.5,0,0,38,3,28,0,0,0,60,1.8,0,0,15050,2400,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,0.99,1,Dried Fruits and Nuts
+H-E-B Select Ingredients Roasted &amp; Salted Pistachios,0.25,cup,28,0,170,7,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1.5,0,0,0,0,7,3,2,0,0,0,20,1.08,0,100,9450,3840,0,0.3,0.3,0,0,0,0.15,0,0,0,0,0,0,0,0,0,0,H-E-B,4.98,6,Dried Fruits and Nuts
+Ocean Spray Craisins Original Dried Cranberries,0.333,cup,40,0,130,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,3,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.98,8,Dried Fruits and Nuts
+Planters Halves And Pieces Cashews,50,pieces,28,0,160,5,0,0,0,0,0,0,0,0,0,0,0,0,0,13,2.5,7,2.5,0,0,9,1,2,0,0,0,0,1.8,80,150,6650,2640,1.5,0.6,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.88,8,Dried Fruits and Nuts
+H-E-B Zesta Fiesta Party Mix,0.25,cup,30,0,160,6,0,0,0,0,0,0,0,0,0,0,0,0,0,13,2,0,0,0,0,10,2,0,0,0,0,20,1.08,0,0,0,2400,0,0,0,0,0,0,0,0,0,0,0,0,0,1.2,0,0,0,H-E-B,2.99,6,Dried Fruits and Nuts
+Bigs Tapatio Chile Limon Sunflower Seeds,0.75,cup,30,0,190,9,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1.5,0,0,0,0,4,4,0,0,0,0,20,1.8,0,0,0,1320,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.47,3,Dried Fruits and Nuts
+Mexsnax Saladitos Salted Peanuts,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.98,0,Dried Fruits and Nuts
+Winnuts Super Cantinero Snack Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.78,0,Dried Fruits and Nuts
+Sun-Maid Vanilla Yogurt Raisins,0.25,cup,30,0,120,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,21,1,18,0,0,0,20,0.36,0,0,5600,360,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.38,8,Dried Fruits and Nuts
+Sunrise Natural Foods Cranberry Confetti Trail Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.69,0,Dried Fruits and Nuts
+Central Market PrePacked Whole Jumbo Roasted Cashews,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.69,0,Dried Fruits and Nuts
+SunRidge Farms Asian Cracker Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.69,0,Dried Fruits and Nuts
+Bigs Zesty Ranch Flavor Sunflower Seeds Re-Sealable Big Bag!,0.75,cup,30,0,170,7,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1.5,0,0,0,0,7,3,1,0,0,0,40,1.8,0,0,0,4080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.47,3,Dried Fruits and Nuts
+Lance Fresh Roasted Peanut Bar,1,bar,62.5,0,340,13,0,0,0,0,0,0,0,0,0,0,0,0,0,19,3,0,0,0,0,29,3,19,0,0,0,0,0.36,0,0,0,2400,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,0.79,1,Dried Fruits and Nuts
+H-E-B P.B. and Chocolate Lovers Trail Mix,0.25,cup,31,0,170,4,0,0,0,0,0,0,0,0,0,0,0,0,0,11,3.5,4,2.5,0,0,15,2,10,0,0,0,40,0.72,0,0,4725,1680,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.18,9,Dried Fruits and Nuts
+Mexsnax Lima Beans Hot Habas Chile Limon,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.98,0,Dried Fruits and Nuts
+H-E-B Orgaincs Deluxe Trail Mix,0.25,cups,30,0,140,4,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,0,0,0,10,13,2,9,0,0,0,20,1.08,0,0,0,360,0,0,0,0,0,0,0,0,0,0,0,0,0,1.2,0,0,0,H-E-B,3.97,8,Dried Fruits and Nuts
+Woodstock Farms Organic Sriracha Pumpkin Seeds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,8.49,0,Dried Fruits and Nuts
+SunRidge Farms Cashews - Whole Raw,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,10.49,0,Dried Fruits and Nuts
+Woodstock Farms Organic Apple Honey Almonds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,17.99,0,Dried Fruits and Nuts
+H-E-B California Almonds,0.25,cup,30,0,170,6,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,0,0,0,0,6,4,1,0,0,0,80,1.44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.39,7,Dried Fruits and Nuts
+Woodstock Farms Organic Apple Honey Pumpkin Seeds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,8.49,0,Dried Fruits and Nuts
+Sun-Maid California Peaches, Dried Halves,0.25,cup,40,0,100,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,4,17,0,0,0,20,1.44,0,0,14350,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.4,0,0,0,H-E-B,3.48,4,Dried Fruits and Nuts
+H-E-B Dried Fruit Berry Blend,0.25,cup,40,0,130,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,2.5,26,0,0,0,20,1.8,0,0,0,480,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.98,4,Dried Fruits and Nuts
+Just Tomatoes, Etc.! Organic Just Strawberries,1,oz,28,0,110,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0,0,0,0,0,25,4,15,0,0,0,40,0.72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,72,0,0,0,H-E-B,6.99,1.2,Dried Fruits and Nuts
+H-E-B Organics Whole Raw Cashews,0.25,cup,28,0,160,5,0,0,0,0,0,0,0,0,0,0,0,0,0,13,2,0,0,0,0,9,1,2,0,0,0,20,1.8,0,0,6650,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,7.78,12,Dried Fruits and Nuts
+H-E-B Walnut Halves &amp; Pieces,0.25,cup,30,0,200,5,0,0,0,0,0,0,0,0,0,0,0,0,0,20,2,0,0,0,0,4,2,1,0,0,0,20,0.72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.79,10,Dried Fruits and Nuts
+Frito Lay BBQ Sunflower Seeds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,0.44,0,Dried Fruits and Nuts
+SunRidge Farms Organic Pineapple Rings,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,10.99,0,Dried Fruits and Nuts
+H-E-B Organics Pitted Prunes,0.25,cups,40,0,100,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,3,15,0,0,0,20,0.36,0,0,0,0,0,0,0,0,0,300,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.47,7,Dried Fruits and Nuts
+H-E-B Select Ingredients Halves and Pieces Cashews,1,oz,28,0,170,5,0,0,0,0,0,0,0,0,0,0,0,0,0,13,2.5,7,2.5,0,0,8,1,1,0,0,0,20,1.44,60,150,0,2880,1.2,0.5,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.98,8,Dried Fruits and Nuts
+SunRidge Farms Zen Party Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.99,0,Dried Fruits and Nuts
+Planters Lightly Salted Cocktail Peanuts,1,oz,28,0,170,7,0,0,0,0,0,0,0,0,0,0,0,0,0,14,2,7,4.5,0,0,5,2,1,0,0,0,20,0.72,40,100,7000,1080,0,0,0.5,0,0,0,0,0,4,0,0,0,0,0,0,2.7,0,H-E-B,3.18,12,Dried Fruits and Nuts
+Samurai Japanese Style Peanuts Sablazo,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.29,0,Dried Fruits and Nuts
+Woodstock Farms Organic Apply Honey Sunflower Seeds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.49,0,Dried Fruits and Nuts
+Stretch Island Fruit Co. Abundant Apricot Fruit Strip,1,strip,14,0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,8,0,0,0,0,0,0,0,4550,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,0.49,1,Dried Fruits and Nuts
+Newman's Own Organics Raisins,0.25,cup,40,0,130,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,2,29,0,0,0,20,1.08,0,0,10850,240,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.88,4,Dried Fruits and Nuts
+H-E-B Select Ingredients Deluxe Mixed Nuts,3,tbsp,28,0,180,5,0,0,0,0,0,0,0,0,0,0,0,0,0,15,2,9,3.5,0,0,6,2,1,0,0,0,40,1.08,60,150,0,2400,1.2,0.4,0.5,0,0,0,0,0,0,0,0,0,0,0,0,2.7,0,H-E-B,5.78,9,Dried Fruits and Nuts
+SunRidge Farms Omega Fortified Sweetened Cranberries,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.99,0,Dried Fruits and Nuts
+Snack Factory Fruit Sticks Apple Cinnamon,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.59,0,Dried Fruits and Nuts
+Bigs Vlasic Dill Pickle Flavor Sunflower Seeds Re-Sealable Big Bag!,0.75,cup,30,0,170,7,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1.5,0,0,0,0,6,3,1,0,0,0,40,1.8,0,0,0,4560,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.47,3,Dried Fruits and Nuts
+Frito Lay Flamin' Hot Limon Sunflower Seeds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,0.44,0,Dried Fruits and Nuts
+H-E-B Organics Dark Chocolate Pomegranate,0.25,cups,40,0,180,2,0,0,0,0,0,0,0,0,0,0,0,0,0,10,6,0,0,0,0,27,3,21,0,0,0,20,1.08,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,9.97,9,Candy
+Nutty And Fruity BBQ Banana Chips,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.99,0,Dried Fruits and Nuts
+Samurai Regular Peanuts,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3,0,Dried Fruits and Nuts
+Paradise Fiesta Cherry Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.99,0,Dried Fruits and Nuts
+SunRidge Farms Pecans,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,11.99,0,Dried Fruits and Nuts
+SunRidge Farms Organic Cranberry Harvest Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,7.49,0,Dried Fruits and Nuts
+H-E-B Select Ingredients Lightly Salted Deluxe Mixed Nuts,3,tbsp,28,0,180,5,0,0,0,0,0,0,0,0,0,0,0,0,0,15,2,9,3.5,0,0,6,2,1,0,0,0,40,1.08,60,150,0,1200,1.2,0.4,0.6,0,0,0,0,0,0.4,0,0,0,0,0,0,2.7,0,H-E-B,5.78,9,Dried Fruits and Nuts
+Bulk Roasted &amp; Salted Spanish Nuts,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.99,0,Dried Fruits and Nuts
+SunRidge Farms Cinnamon Fuji Apple Wedges,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,11.99,0,Dried Fruits and Nuts
+Planters P3 Portable Protein Maple Glazed Ham Jerky Peanuts,1,package,51,0,250,13,0,0,0,0,0,0,0,0,0,0,0,0,0,17,2,7,6,0,20,13,3,8,0,0,0,40,1.8,40,150,6650,10080,1.5,0.4,0.6,14,0,0,0,0,3,0,0,60,0,0,0,9.45,0,H-E-B,4.43,3,Dried Fruits and Nuts
+Planters Dry Roasted Peanuts,1,oz,28,0,160,7,0,0,0,0,0,0,0,0,0,0,0,0,0,14,2,7,4.5,0,0,5,2,1,0,0,0,20,1.44,40,100,7000,3600,0,0,0.6,0,0,0,0,0,3,0,0,0,0,0,0,2.7,0,H-E-B,5.98,35,Dried Fruits and Nuts
+SunRidge Farms Tamari Roasted Pumpkin Seeds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.99,0,Dried Fruits and Nuts
+Sunsweet Ones Prunes,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.68,0,Dried Fruits and Nuts
+True North Chocolate Nut Crunch,5,clusters,28,0,150,4,0,0,0,0,0,0,0,0,0,0,0,0,0,11,2,6,2,0,0,11,2,7,0,0,0,40,0.72,40,100,0,1680,0.6,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0,4.05,0,H-E-B,2.98,5,Dried Fruits and Nuts
+Picosos Hot Chile Mixed Nuts,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.98,0,Dried Fruits and Nuts
+Bulk Roasted Unsalted Almonds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,9.49,0,Dried Fruits and Nuts
+SunRidge Farms Unsulphured Chocolate Papaya,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,8.69,0,Dried Fruits and Nuts
+Lone Star Nut &amp; Candy Dried Sweetned Tart Sour Cherries,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,13.99,0,Dried Fruits and Nuts
+H-E-B Snax Roasted and Salted Sunflower Kernels,1,oz,28,0,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.18,2,Dried Fruits and Nuts
+Bulk Frosted Pecans Praline,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,10.99,0,Dried Fruits and Nuts
+SunRidge Farms Antioxidant Berries &amp; Chocolate Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,7.49,0,Dried Fruits and Nuts
+Just Tomatoes, Etc.! Just Raspberries,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2,0,Dried Fruits and Nuts
+SunRidge Farms Greek Yogurt Odyssey Mix Organic,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,9.99,0,Dried Fruits and Nuts
+Woodstock Farms Organic Tequila Lime Sunflower Seeds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.49,0,Dried Fruits and Nuts
+Frito Lay Munchies Flamin' Hot Peanuts,0,,0,0,290,11,0,0,0,0,0,0,0,0,0,0,0,0,0,23,4,0,0,0,0,9,4,4,0,0,0,20,0.72,0,0,0,8640,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2,0,Dried Fruits and Nuts
+H-E-B Honey Roasted Peanuts,0.25,cup,28,0,170,6,0,0,0,0,0,0,0,0,0,0,0,0,0,13,2.5,0,0,0,0,7,1,4,0,0,0,20,0.36,40,0,0,2640,0,0,0.4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,H-E-B,4.72,35,Dried Fruits and Nuts
+Ocean Spray Craisins Dried Cranberries With Pomegranate Juice,0.333,cup,40,0,140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,3,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.25,4,Dried Fruits and Nuts
+SunRidge Farms Heavenly Cranberry Crunch Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.99,0,Dried Fruits and Nuts
+H-E-B Yogurt Peanut Clusters,4,pieces,40,0,220,6,0,0,0,0,0,0,0,0,0,0,0,0,0,15,6,0,0,0,0,17,1,14,0,0,0,40,0.36,0,0,0,360,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.99,5,Dried Fruits and Nuts
+SunRidge Farms Chocolate Peanut Caramels,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.69,0,Candy
+Emerald Dill Pickle Cashews,1,oz,28,0,150,5,0,0,0,0,0,0,0,0,0,0,0,0,0,12,2,7,2,0,0,9,1,2,0,0,0,20,1.8,0,0,0,2280,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.94,5,Dried Fruits and Nuts
+H-E-B Select Ingredients Heart-E-Blend Trail Mix,0.25,cup,28,0,180,6,0,0,0,0,0,0,0,0,0,0,0,0,0,15,2,8,4.5,0,0,5,3,1,0,0,0,40,0.72,60,100,7000,840,0.9,0.2,0.6,0,0,0,0,0,2,0,0,0,0,0,0,4.05,0,H-E-B,4.98,10,Dried Fruits and Nuts
+Bare Cinnamon Banana Chips,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.79,0,Dried Fruits and Nuts
+Lone Star Nut &amp; Candy Sliced Raw Natural Almonds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,10.99,0,Dried Fruits and Nuts
+Japon Cacahuates, Japanese Style Dry Roasted Peanuts,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.28,0,Dried Fruits and Nuts
+H-E-B Select Ingredients Whole Roasted and Salted Cashews,1,oz,28,0,170,5,0,0,0,0,0,0,0,0,0,0,0,0,0,13,2.5,7,2.5,0,0,8,1,1,0,0,0,20,1.44,60,150,0,2880,1.2,0.5,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.98,9,Dried Fruits and Nuts
+Lone Star Nut &amp; Candy Sweet Caroline Snack Mix, sold by the,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.09,0,Dried Fruits and Nuts
+H-E-B Select Ingredients Natural California Sweet Raisins,1,oz,28,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140,0,35.84,282.8,0,0,0.00924,0.00178,0,0.11760000000000001,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.87,2,Dried Fruits and Nuts
+SunRidge Farms Women's Vitality Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.49,0,Dried Fruits and Nuts
+H-E-B Select Ingredients Roasted and Salted Pecans,1,oz,28,0,160,2,0,0,0,0,0,0,0,0,0,0,0,0,0,16,1.5,9,5,0,0,3,2,1,0,0,0,20,0.36,24,60,2800,480,0.9,0.2,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.58,7,Dried Fruits and Nuts
+H-E-B Dry Roasted Whole Almonds,23,pieces,30,0,180,6,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,0,0,0,0,7,3,1,0,0,0,80,1.44,0,0,0,2160,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,7.99,15,Dried Fruits and Nuts
+AustiNuts Dry Roasted Salted Pumpkin Seeds,1,oz,28,0,125,5,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,0,15,0,0,0,0,0,20,1.08,0,0,0,3840,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.49,8,Dried Fruits and Nuts
+Blue Diamond Roasted Salted Almonds,1,oz,28,0,170,6,0,0,0,0,0,0,0,0,0,0,0,0,0,16,1,0,0,0,0,5,3,1,0,0,0,80,1.08,80,0,6650,2040,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.45,0,H-E-B,3.44,6,Dried Fruits and Nuts
+Karen's Naturals Just Bananas,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2,0,Dried Fruits and Nuts
+Blue Diamond Almonds Whole Natural,1,package,43,0,250,9,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1.5,0,0,0,0,8,5,2,0,0,0,100,1.8,120,0,10850,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13.5,0,H-E-B,1.28,1,Dried Fruits and Nuts
+Planters Nut-rition Heart Healthy Mix,1,oz,28,0,170,6,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1.5,8,4.5,0,0,5,3,1,0,0,0,40,1.08,60,100,7000,840,0,0.3,0.7,0,0,0,0,0,2,0,0,0,0,0,0,5.4,0,H-E-B,5.86,10,Dried Fruits and Nuts
+Bulk Roasted and Salted Blanched Peanuts,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.49,0,Dried Fruits and Nuts
+SunRidge Farms Glazed Vanilla Orange Almonds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,9.99,0,Dried Fruits and Nuts
+Mexsnax Pumpkin Seeds Semilla De Calabaza,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.98,0,Dried Fruits and Nuts
+Frito Lay Munchies Salted Peanuts,0,,0,0,260,13,0,0,0,0,0,0,0,0,0,0,0,0,0,22,3.5,0,0,0,0,8,4,2,0,0,0,40,0.72,0,0,0,4560,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,0.44,0,Dried Fruits and Nuts
+SunRidge Farms Pineapple Rings, Unsulphured,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.99,0,Dried Fruits and Nuts
+Planters P3 Portable Protein Original Beef Jerky,1,package,51,0,260,13,0,0,0,0,0,0,0,0,0,0,0,0,0,18,2.5,8,7,0,10,12,3,5,0,0,0,40,1.8,40,150,7350,9120,1.5,0.4,0.7,14,0,0,0,0,3,0,0,60,0,0,0,10.8,0,H-E-B,4.43,3,Dried Fruits and Nuts
+Kathleen's Peruvian Roasted Corn Snacks,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.49,0,Dried Fruits and Nuts
+Nut Harvest Honey Roasted Mixed Nuts,1,oz,28,0,170,14,0,0,0,0,0,0,0,0,0,0,0,0,0,40,7,0,0,0,0,27,7,13,0,0,0,40,1.8,0,0,0,8160,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.99,3,Dried Fruits and Nuts
+H-E-B Select Ingredients Manly Blend Trail Mix,0.25,cup,28,0,180,7,0,0,0,0,0,0,0,0,0,0,0,0,0,15,2,8,4,0,0,5,3,1,0,0,0,40,0.72,60,100,7350,960,0.9,0.2,0.5,0,0,0,0,0,2,0,0,0,0,0,0,5.4,0,H-E-B,4.98,10,Dried Fruits and Nuts
+H-E-B Sweet Pitted Prunes,0.25,cup,40,0,110,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,2,13,0,0,0,0,0.36,0,0,10150,120,0,0,0,0,0,500,0,0,0,0,0,0,0,2.4,0,0,0,H-E-B,2.39,6,Dried Fruits and Nuts
+Planters Nut-rition Men's Health Recommended Nuts Mix,1,oz,28,0,170,7,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1.5,8,4,0,0,6,3,1,0,0,0,40,1.08,60,100,7700,1080,0,0.3,0.6,0,0,0,0,0,2,0,0,0,0,0,0,5.4,0,H-E-B,5.86,10,Dried Fruits and Nuts
+Mariani Roasted &amp; Sea Salt California Almonds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,7.98,0,Dried Fruits and Nuts
+H-E-B Mammoth Pecan Halves,0.25,cup,30,0,220,3,0,0,0,0,0,0,0,0,0,0,0,0,0,21,1,0,0,0,0,4,3,1,0,0,0,20,0.72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.2,0,0,0,H-E-B,8.99,11,Dried Fruits and Nuts
+H-E-B Snax Hit the Trail Mix Multi Pack,1,package,50,0,240,7,0,0,0,0,0,0,0,0,0,0,0,0,0,14,3,7,3.5,0,0,25,3,17,0,0,0,60,1.08,0,0,10500,2520,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.98,8,Dried Fruits and Nuts
+SunRidge Farms Organic Golden Muscat Raisins,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.99,0,Dried Fruits and Nuts
+Brothers All Natural Banana Freeze-Dried Fruit Crisps,1,entire,17,0,66,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,2,8,0,0,0,100,0.36,0,0,0,0,0,0,0,0,0,150,0,0,0,0,0,0,0,0,0,0,0,H-E-B,0.88,1,Dried Fruits and Nuts
+H-E-B Organics Raisins No Sugar Added,1,box,28,0,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,17,0,0,0,20,0.36,0,0,7350,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.2,0,0,0,H-E-B,2,0,Dried Fruits and Nuts
+Bulk Whole Hazelnuts,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.99,0,Dried Fruits and Nuts
+Ellis Pecan Texas Deluxe Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,10.99,0,Dried Fruits and Nuts
+SunRidge Farms Jumbo Roasted Cashews, No Salt,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,9.99,0,Dried Fruits and Nuts
+SunRidge Farms Wasabi Tamari Almonds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,10.99,0,Dried Fruits and Nuts
+Atkins Classic Trail Mix,1,pack,38,0,190,7,0,0,0,0,0,0,0,0,0,0,0,0,0,15,3.5,0,0,0,0,13,4,2,0,0,0,60,1.44,0,0,7000,3360,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.78,5,Dried Fruits and Nuts
+Lance Sunflower Seeds,0.5,cup,56.7,0,180,7,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1.5,0,0,0,5,7,3,0,0,0,0,0,1.08,0,0,0,2520,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2,2,Dried Fruits and Nuts
+Nut Harvest Nut &amp; Chocolate Mix,1,oz,28,0,160,12,0,0,0,0,0,0,0,0,0,0,0,0,0,30,8,15,7,0,5,39,7,32,0,0,0,60,1.8,0,0,0,4800,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.78,3,Dried Fruits and Nuts
+Blue Diamond Roasted Salted Almonds Value Pack,1,oz,28,0,170,6,0,0,0,0,0,0,0,0,0,0,0,0,0,16,1,0,0,0,0,5,3,1,0,0,0,80,1.08,80,0,6650,2040,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.45,0,H-E-B,8.98,16,Dried Fruits and Nuts
+Emerald 100 Calorie Packs Natural Almonds,1,package,18,0,100,4,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0.5,6,2,0,0,4,2,1,0,0,0,40,0.72,0,0,4550,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.75,0,H-E-B,3.44,7,Dried Fruits and Nuts
+H-E-B Organics Raw Pecans Halves,0.25,cups,30,0,210,3,0,0,0,0,0,0,0,0,0,0,0,0,0,22,2,0,0,0,0,1,3,1,0,0,0,20,0.72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.97,6,Dried Fruits and Nuts
+Lone Star Nut &amp; Candy Diet Delight Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.39,0,Dried Fruits and Nuts
+SunRidge Farms Carob Almonds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.99,0,Dried Fruits and Nuts
+SunRidge Farms Organic Raw Pumpkin Seeds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.99,0,Dried Fruits and Nuts
+Samurai Regular Peanuts,1,oz,30,0,150,6,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,0,0,0,0,14,2,0,0,0,0,20,1.08,0,0,0,3360,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,0.99,3,Dried Fruits and Nuts
+H-E-B Select Ingredients California Sweet Raisins,1,box,28,0,80,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,17,0,0,0,20,0.36,0,0,7350,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.2,0,0,0,H-E-B,1.29,0,Dried Fruits and Nuts
+Brothers All Natural Asian Pear Freeze-Dried Fruit Crisps,1,bag,10,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,7,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,0.88,1,Dried Fruits and Nuts
+H-E-B Spicy Peanuts,0.25,cup,28,0,160,7,0,0,0,0,0,0,0,0,0,0,0,0,0,14,2,7,4.5,0,0,5,2,1,0,0,0,20,0.36,0,0,0,4320,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.58,12,Dried Fruits and Nuts
+Lone Star Nut &amp; Candy Student Food Trail Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.99,0,Dried Fruits and Nuts
+H-E-B Select Ingredients Garlic Pistachios,0.25,cup,28,0,170,7,0,0,0,0,0,0,0,0,0,0,0,0,0,13,1.5,0,0,0,0,7,3,2,0,0,0,20,1.08,0,100,9450,6240,0,0.3,0.3,0,0,0,0,0,0,0,0,0,0,1.2,0,0,0,H-E-B,4.98,4,Dried Fruits and Nuts
+H-E-B Japanix Japanese Style Peanuts,0.25,cup,25,0,120,5,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,0,0,0,0,11,1,4,0,0,0,20,1.08,0,0,0,2760,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.5,8,Dried Fruits and Nuts
+Sun-Maid Washington Apples,0,,0,0,110,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,3,18,0,0,0,0,0.72,0,0,6300,6000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.28,0,Dried Fruits and Nuts
+SunRidge Farms Roasted and Glazed Pecans,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,13.99,0,Dried Fruits and Nuts
+H-E-B Select Ingredients Roasted Lightly Salted Almonds,28,nuts,28,0,170,6,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,0,0,0,0,6,3,1,0,0,0,80,1.08,80,150,7000,1080,0,0.3,0.7,0,0,0,0,0.255,0,0,0,0,0,0,0,6.75,0,H-E-B,4.98,8,Dried Fruits and Nuts
+Nutty And Fruity Dried Tangerine Wedges,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.99,0,Dried Fruits and Nuts
+Ellis Pecan Cranberry Slam Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.99,0,Dried Fruits and Nuts
+Sunsweet Pitted Prunes,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.24,0,Dried Fruits and Nuts
+H-E-B Organics Thompson Raisins,0.25,cups,40,0,130,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,2,29,0,0,0,20,0.72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.37,7,Dried Fruits and Nuts
+H-E-B Cocono Deluxe Mix,0.25,cup,30,0,160,5,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1.5,0,0,0,0,10,2,5,0,0,0,20,1.44,0,0,0,240,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.39,8,Dried Fruits and Nuts
+Nut Harvest Nut &amp; Fruit Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.78,0,Dried Fruits and Nuts
+SunRidge Farms Hatch Green Chile Roasted Cashews,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,8.99,0,Dried Fruits and Nuts
+Just Tomatoes, Etc.! Strawberries Freeze Dried Fruit,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2,0,Dried Fruits and Nuts
+H-E-B Organics Raw Sunflower Seeds, Unsalted,0.25,cups,30,0,170,7,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1.5,0,0,0,0,6,3,1,0,0,0,40,1.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.77,9,Dried Fruits and Nuts
+Lone Star Nut &amp; Candy Roasted No Salt Imperial Mixed Nuts, sold by the,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,11.29,0,Dried Fruits and Nuts
+Bulk Ellis Pecan Fancy Pecan Halves,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,11.99,0,Dried Fruits and Nuts
+Mariani Ultimate Apricots,5,apricots,40,0,100,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,2,13,0,0,0,20,0.36,16,20,14700,360,0.3,0.16,0.08,0,0,300,0,0,0.8,0,0,8,0,0,0,4.05,0,H-E-B,2.98,4.5,Dried Fruits and Nuts
+H-E-B Organics Raw Almonds,28,nuts,28,0,160,6,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1,9,3.5,0,0,6,3,1,0,0,0,80,1.08,0,0,7000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.99,8,Dried Fruits and Nuts
+Mariani Sweet BBQ California Almonds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.58,0,Dried Fruits and Nuts
+H-E-B Organics Cranberry Harvest Mix,0.25,cups,30,0,140,4,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2,0,0,0,0,13,2,9,0,0,0,20,1.08,0,0,0,240,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.97,8,Dried Fruits and Nuts
+Second Nature California Medley,1,ounce,28,0,120,3,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0.5,0,0,0,0,16,2,11,0,0,0,20,0.36,0,0,4550,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.99,12,Dried Fruits and Nuts
+H-E-B Antioxidant Indulgence Trail Mix,0.25,cup,34,0,150,3,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,3,1,0,0,24,2,17,0,0,0,40,1.08,0,0,4550,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.7,0,H-E-B,3.18,7,Dried Fruits and Nuts
+SunRidge Farms Organic Soy Nuts,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.29,0,Dried Fruits and Nuts
+Planters P3 Chipotle Peanuts &amp; Jerky &amp; Sunflower Kernels,1,package,51,0,260,13,0,0,0,0,0,0,0,0,0,0,0,0,0,18,2.5,8,7,0,10,12,3,5,0,0,0,40,1.8,40,150,7350,9120,1.5,0.4,0.7,14,0,0,0,0,3,0,0,60,0,0,0,10.8,0,H-E-B,1.99,0,Dried Fruits and Nuts
+Texas Star Nut Dried Organic Mango,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,9.99,0,Dried Fruits and Nuts
+H-E-B Select Ingredients Cashew Grande Whole Roasted Cashew Unsalted,15,pieces,28,0,160,5,0,0,0,0,0,0,0,0,0,0,0,0,0,14,2.5,0,0,0,0,8,1,1,0,0,0,20,1.44,0,0,6300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.98,12,Dried Fruits and Nuts
+Central Market Fruit And Nut Trail Mix,0.25,cup,30,0,130,3,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,0,0,0,0,16,2,11,0,0,0,0,1.08,0,0,0,960,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.99,9.5,Dried Fruits and Nuts
+Dakota Style Jumbo Sunflower Seeds,0.5,cup,30,0,95,3,0,0,0,0,0,0,0,0,0,0,0,0,0,7.5,1,1.5,5,0,0,3,1,0,0,0,0,20,1.08,40,200,6650,1560,1.5,0.5,0,0,0,0,0,0,0,0,0,60,0,0,0,18.9,0,H-E-B,1.98,15,Dried Fruits and Nuts
+Karen's Naturals Just Persimmons Snack Bag,1,oz,28,0,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,23,0,0,0,20,1.8,0,0,0,0,0,0,0,0,0,500,0,0,0,0,0,0,0,24,0,0,0,H-E-B,6.49,4,Dried Fruits and Nuts
+SunRidge Farms Dried Strawberries, Sweetened-Unsulphured,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,15.99,0,Dried Fruits and Nuts
+H-E-B Nutty Bliss Trail Mix,0,,0,0,150,3,0,0,0,0,0,0,0,0,0,0,0,0,0,8,3,3.5,1,0,0,16,1,13,0,0,0,20,0.36,0,0,0,1440,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.18,0,Dried Fruits and Nuts
+AustiNuts Salted Cashews,1,oz,28,0,160,4,0,0,0,0,0,0,0,0,0,0,0,0,0,13,2.5,0,0,0,0,9,1,1,0,0,0,0,1.8,0,0,0,4320,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.69,7,Dried Fruits and Nuts
+SunRidge Farms Hatch Chile Fiesta Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,7.99,0,Dried Fruits and Nuts
+SunRidge Farms VIDAS SECAS,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.79,0,Candy
+SunRidge Farms High Life Deluxe Trail Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.99,0,Dried Fruits and Nuts
+H-E-B Select Ingredients Lightly Salted Cashew Halves and Pieces,1,oz,28,0,160,5,0,0,0,0,0,0,0,0,0,0,0,0,0,13,2.5,7,2.5,0,0,8,1,1,0,0,0,20,1.44,80,150,0,1440,1.2,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.98,8,Dried Fruits and Nuts
+Sabritas Mexican Style Mix Peanuts,3,tbsp,30,0,200,17,0,0,0,0,0,0,0,0,0,0,0,0,0,17,3,0,0,0,0,5,4,1,0,0,0,0,0.36,0,0,0,3240,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.99,7,Dried Fruits and Nuts
+SunRidge Farms Dark Chocolate Blueberries,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,10.99,0,Candy
+Bulk Roasted &amp; Salted Almonds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,9.99,0,Dried Fruits and Nuts
+H-E-B Select Ingredients Cashew Almond,0.25,cup,34,0,210,6,0,0,0,0,0,0,0,0,0,0,0,0,0,18,2.5,12,3,0,0,8,3,2,0,0,0,40,1.44,80,150,7350,1440,1.2,0.5,0.7,0,0,0,0,0,0.8,0,0,0,0,0,0,4.05,0,H-E-B,5.98,8,Dried Fruits and Nuts
+AustiNuts South of the Border,1,oz,28,0,132,5,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,8,2,1,0,0,0,0,0,0,0,0,6504,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.75,14,Dried Fruits and Nuts
+SunRidge Farms Chili Lime Pistachios,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,10.99,0,Dried Fruits and Nuts
+Go Raw Organic Sprouted Watermelon Seeds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,7.99,0,Dried Fruits and Nuts
+H-E-B Lightly Salted Dry Roasted Peanuts,0.25,cup,28,0,160,7,0,0,0,0,0,0,0,0,0,0,0,0,0,14,2,7,4.5,0,0,6,2,1,0,0,0,20,0.72,40,100,6300,2400,0,0.2,0.6,0,0,0,0,0,4,0,0,40,0,0,0,2.7,0,H-E-B,5.88,35,Dried Fruits and Nuts
+H-E-B Select Ingredients Deluxe Mixed Nuts,3,tbsp,28,0,180,5,0,0,0,0,0,0,0,0,0,0,0,0,0,15,2,9,3.5,0,0,6,2,1,0,0,0,40,1.08,60,150,5950,2400,1.2,0.4,0.5,0,0,0,0,0,0,0,0,0,0,0,0,2.7,0,H-E-B,8.88,15,Dried Fruits and Nuts
+Lance Fresh Mesquite BBQ Peanuts,1,package,39,0,250,9,0,0,0,0,0,0,0,0,0,0,0,0,0,20,4,0,0,0,0,8,2,3,0,0,0,0,0.72,0,0,0,5520,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2,1,Dried Fruits and Nuts
+H-E-B Organic Thompson Raisins,0.25,cup,40,0,130,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,2,29,0,0,0,20,0.72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.71,11,Dried Fruits and Nuts
+H-E-B Trail Mix, Hit the Trail with Peanut M&amp;M's,3,tbsp,28,0,140,4,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2,4,2,0,0,13,2,9,0,0,0,20,0.72,0,0,5950,1320,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.18,11,Dried Fruits and Nuts
+Stretch Island Fruit Co. Wild Apple Fruit Leather,1,strip,14,0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,9,0,0,0,0,0,0,0,2625,120,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,H-E-B,0.49,0,Dried Fruits and Nuts
+H-E-B Dry Roasted Peanuts,0.25,cup,28,0,160,6,0,0,0,0,0,0,0,0,0,0,0,0,0,13,2,7,4,0,0,7,2,1,0,0,0,20,0.72,40,100,6300,4800,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,H-E-B,5.88,35,Dried Fruits and Nuts
+Mariani Shelled Premium Pecans,0.25,cup,30,0,210,3,0,0,0,0,0,0,0,0,0,0,0,0,0,22,2,12,6,0,0,4,3,1,0,0,0,20,0.72,0,0,4375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.98,9,Dried Fruits and Nuts
+H-E-B Select Ingredients Mixed Nuts With Peanuts,3,tbsp,28,0,180,6,0,0,0,0,0,0,0,0,0,0,0,0,0,15,2.5,8,4,0,0,5,2,1,0,0,0,20,0.72,60,100,0,2640,0.9,0.3,0.5,0,0,0,0,0,2,0,0,0,0,0,0,2.7,0,H-E-B,4.68,10,Dried Fruits and Nuts
+David Roasted And Salted Pumpkin Seeds,1,package,64,0,340,18,0,0,0,0,0,0,0,0,0,0,0,0,0,22,4.5,6,11,0,0,17,14,1,0,0,0,20,2.7,160,450,12600,51600,2.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.18,1,Dried Fruits and Nuts
+Emerald Salt &amp; Pepper Cashews,1,oz,28,0,160,5,0,0,0,0,0,0,0,0,0,0,0,0,0,13,2,7,2,0,0,8,1,2,0,0,0,20,1.8,0,0,0,3600,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.94,5,Dried Fruits and Nuts
+SunRidge Farms Dry Roasted Peanuts, No Salt,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.79,0,Dried Fruits and Nuts
+Mariani Chili Lime California Almonds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.58,0,Dried Fruits and Nuts
+SunRidge Farms Roasted Wasabi Peas,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.99,0,Dried Fruits and Nuts
+Brothers All Natural Strawberry Banana Freeze-Dried Fruit Crisps,1,bag,12,0,45,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,2,6,0,0,0,0,0.36,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,15,0,0,0,H-E-B,0.88,0,Dried Fruits and Nuts
+Fresh Pecan Large Pieces,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,8.99,0,Dried Fruits and Nuts
+H-E-B Sweet and Sassy Trail Mix,0.25,cup,30,0,160,4,0,0,0,0,0,0,0,0,0,0,0,0,0,10,1.5,4.5,3.5,0,0,14,2,6,0,0,0,20,0.72,0,0,3675,4800,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.98,25,Dried Fruits and Nuts
+Nut Harvest Deluxe Mixed Nuts,1,oz,28,0,170,13,0,0,0,0,0,0,0,0,0,0,0,0,0,42,5,0,0,0,0,17,6,4,0,0,0,40,1.8,32,0,0,8880,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.7,0,H-E-B,1.78,3,Dried Fruits and Nuts
+Lance Dill Pickle Peanuts,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2,0,Dried Fruits and Nuts
+Lone Star Nut &amp; Candy Cheddar Sesame Sticks,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.29,0,Dried Fruits and Nuts
+Mariani Whole Almonds 27/30 NP,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.99,0,Dried Fruits and Nuts
+Stretch Island Fruit Co. Harvest Grape Fruit Strip,1,strip,14,0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,9,0,0,0,0,0,0,0,4200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.4,0,0,0,H-E-B,0.49,1,Dried Fruits and Nuts
+SunRidge Farms Yogurt Cranberries,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.49,0,Dried Fruits and Nuts
+H-E-B Organics Whole Dry Roasted Cashews With Sea Salt,0.25,cup,28,0,160,4,0,0,0,0,0,0,0,0,0,0,0,0,0,13,2.5,0,0,0,0,9,1,1,0,0,0,20,1.8,0,0,5600,2760,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,7.78,12,Dried Fruits and Nuts
+H-E-B Organics Dry Roasted Almonds with Sea Salt,28,nuts,28,0,170,6,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,10,4,0,0,6,3,1,0,0,0,70,1.08,0,0,7000,2280,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.99,8,Dried Fruits and Nuts
+H-E-B Select Ingredients Dark Chocolate Turbinado Sea Salt Almonds,8,pieces,28,0,150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,360,0.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.98,2,Dried Fruits and Nuts
+H-E-B Blanched Sliced Almonds,0.25,cup,30,0,180,6,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,0,0,0,0,6,3,1,0,0,0,80,1.08,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.69,5,Dried Fruits and Nuts
+GKI Foods Almonds With Dark Chocolate,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.99,0,Candy
+H-E-B Select Ingredients California Sweet Raisins,0,,0,0,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.94,0,Dried Fruits and Nuts
+SunRidge Farms Dried Cranberries,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.99,0,Dried Fruits and Nuts
+Out of Africa Macadamia Nuts (South Africa),0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,19.99,0,Dried Fruits and Nuts
+SunRidge Farms Energy Power Snack Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.99,0,Dried Fruits and Nuts
+H-E-B Select Ingredients City Street Nuts San Antonio Style Candied Pecans,12,pieces,30,0,160,1,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,0,0,0,0,16,1,14,0,0,0,20,0.36,0,0,2275,1200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.98,7,Dried Fruits and Nuts
+H-E-B Organics Dark Chocolate Almonds,0.25,cups,40,0,210,4,0,0,0,0,0,0,0,0,0,0,0,0,0,13,5,0,0,0,0,21,3,17,0,0,0,40,1.08,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,7.77,7,Candy
+AustiNuts Wasabi Peas,1,oz,28,0,114,6,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0,15,3,3,0,0,0,20,1.8,0,0,0,2400,0,0,0,0,0,0,0,0,0,0,0,0,0,2.4,0,0,0,H-E-B,2.99,8,Dried Fruits and Nuts
+Ellis Pecan Hunters Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.99,0,Dried Fruits and Nuts
+Mexsnax Picante Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.98,0,Dried Fruits and Nuts
+SunRidge Farms Wasabi Peanuts,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.99,0,Dried Fruits and Nuts
+Mariani Organic Almonds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,7.99,0,Dried Fruits and Nuts
+Blue Diamond Bold Salt 'n Vinegar Almonds,1,oz,28,0,170,6,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,0,0,0,0,5,3,2,0,0,0,80,1.08,80,0,6300,3360,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.45,0,H-E-B,3.44,6,Dried Fruits and Nuts
+Blue Diamond Bold Habanero BBQ Almonds,1,oz,28,0,170,6,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,0,0,0,0,5,3,2,0,0,0,80,1.08,80,0,6300,2400,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.45,0,H-E-B,3.44,6,Dried Fruits and Nuts
+Emerald 100 Calorie Packs Cashew Halves &amp; Pieces Roasted &amp; Salted,0,,0,0,100,3,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1.5,0,0,0,0,5,1,1,0,0,0,0,1.08,0,0,0,1200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.44,0,Dried Fruits and Nuts
+Lance Fresh Hot and Spicy Peanuts,1,package,39,0,240,9,0,0,0,0,0,0,0,0,0,0,0,0,0,19,3.5,0,0,0,0,9,3,1,0,0,0,0,0.72,0,0,0,6000,0,0,0,0,0,200,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2,1,Dried Fruits and Nuts
+SunRidge Farms Organic Dried Pears,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,13.99,0,Dried Fruits and Nuts
+David Jumbo Ranch Sunflower Seeds,0.25,cup,30,0,190,7,0,0,0,0,0,0,0,0,0,0,0,0,0,16,1.5,4,9,0,0,5,2,1,0,0,0,20,1.08,120,250,0,64800,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.7,0,H-E-B,1.24,2,Dried Fruits and Nuts
+Lone Star Nut &amp; Candy Sweet Cajun Heat Peanuts, sold by the,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.49,0,Dried Fruits and Nuts
+Hampton Farms Healthy Living Unsalted Natural Peanut Butter,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.49,0,Dried Fruits and Nuts
+SunRidge Farms Unsulphured Tropical Fruit Chunks Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,8.99,0,Dried Fruits and Nuts
+H-E-B Select Ingredients Roasted Salted Almonds,28,nuts,28,0,170,6,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,0,0,0,0,6,3,1,0,0,0,80,1.08,80,150,7000,2280,0,0.3,0.7,0,0,0,0,0.255,0,0,0,0,0,0,0,6.75,0,H-E-B,15.98,34,Dried Fruits and Nuts
+H-E-B Dark Chocolate Almonds,11,pieces,40,0,220,4,0,0,0,0,0,0,0,0,0,0,0,0,0,16,7,0,0,0,0,19,3,14,0,0,0,40,1.08,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.47,7,Dried Fruits and Nuts
+SunRidge Farms Berry Cherry Snack Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.99,0,Dried Fruits and Nuts
+Nut Harvest Almonds, Lightly Roasted,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.78,0,Dried Fruits and Nuts
+Bare Toasted Coconut Chips,0.5,cup,30,0,170,1,0,0,0,0,0,0,0,0,0,0,0,0,0,11,9,0,0,0,0,17,6,11,0,0,0,0,0.72,0,0,0,4080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.79,3,Dried Fruits and Nuts
+Jubes Nata De Coco Strawberry Flavor,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.49,0,Dried Fruits and Nuts
+Emerald Roasted &amp; Salted Virginia Peanuts,1,oz,28,0,170,7,0,0,0,0,0,0,0,0,0,0,0,0,0,17,2,7,3.5,0,0,6,3,1,0,0,0,20,0.36,0,0,0,6240,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.94,10,Dried Fruits and Nuts
+H-E-B Walnut Halves and Pieces,0.25,cup,30,0,200,5,0,0,0,0,0,0,0,0,0,0,0,0,0,20,2,0,0,0,0,4,2,1,0,0,0,20,0.72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.29,5,Dried Fruits and Nuts
+Nature's First Law Organic Goji Berries,0,,0,0,112,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1.4,0,0,0,0,0,28,4,4,0,0,0,60,2.16,0,0,0,2016,0,0,0,0,0,8500,0,0,0,0,0,0,0,12,0,0,0,H-E-B,13.79,0,Dried Fruits and Nuts
+SunRidge Farms Organic Sweet Pitted Cherries,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,19.99,0,Dried Fruits and Nuts
+Lone Star Nut &amp; Candy Raw Whole Cashews, sold by the,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,9.49,0,Dried Fruits and Nuts
+Sunsweet D'Noir Pitted Prunes,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.68,0,Dried Fruits and Nuts
+Nichols Farms Organic Roasted Pistachios with Sea Salt,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.99,0,Dried Fruits and Nuts
+Just Tomatoes, Etc.! Just Veggies,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.29,0,Dried Fruits and Nuts
+Bulk Light Chandler Walnuts,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.99,0,Dried Fruits and Nuts
+H-E-B Trail Mix Hit the Trail With Peanut M&amp;M'S,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.98,0,Dried Fruits and Nuts
+Emerald Deluxe Mixed Nuts,1,oz,28,0,170,5,0,0,0,0,0,0,0,0,0,0,0,0,0,15,2,8,4,0,0,6,2,1,0,0,0,40,1.08,0,0,0,1920,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.94,5,Dried Fruits and Nuts
+Bulk Roasted Salted Large Whole Cashews,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,11.99,0,Dried Fruits and Nuts
+H-E-B Organics Whole Raw Cashews,0.25,cup,30,0,170,5,0,0,0,0,0,0,0,0,0,0,0,0,0,13,2.5,0,0,0,0,9,1,2,0,0,0,20,1.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.67,8,Dried Fruits and Nuts
+Nature's Eats Hatch Cashews,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.98,0,Nuts
+Sun-Maid California Pitted Prunes,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.65,0,Dried Fruits and Nuts
+H-E-B High Life Deluxe Mix,0.25,cup,30,0,160,4,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1.5,0,0,0,0,11,2,5,0,0,0,40,1.08,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.99,7,Dried Fruits and Nuts
+Corn Nuts Ranch Flavored Crunchy Corn Kernels,0.33,cup,28,0,130,2,0,0,0,0,0,0,0,0,0,0,0,0,0,4.5,0.5,1.5,2,0,0,20,1,0,0,0,0,0,0.36,0,0,2450,4800,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.78,7,Dried Fruits and Nuts
+Blue Diamond Lightly Salted Almonds,28,nuts,28,0,170,6,0,0,0,0,0,0,0,0,0,0,0,0,0,16,1,0,0,0,0,5,3,1,0,0,0,80,1.08,80,0,6650,960,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.45,0,H-E-B,8.98,16,Dried Fruits and Nuts
+Corn Nuts Original Crunchy Corn Snack,0.33,cup,28,0,130,2,0,0,0,0,0,0,0,0,0,0,0,0,0,4.5,0.5,1.5,2,0,0,20,1,0,0,0,0,0,0.36,0,0,2625,3840,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.78,7,Dried Fruits and Nuts
+Blue Diamond Oven Roasted Sea Salt Almonds,1,oz,28,0,170,6,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,0,0,0,0,5,3,1,0,0,0,80,1.08,80,150,7350,3240,0.9,0.3,0.7,1.4,0,0,0.03,0.255,1.2,0,0,8,0,0,0,9.45,0,H-E-B,8.98,16,Dried Fruits and Nuts
+Ellis Pecan Raw Whole Cashews,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,10.99,0,Dried Fruits and Nuts
+Planters Dry Roasted Honey Roasted Peanuts,1,oz,28,0,160,7,0,0,0,0,0,0,0,0,0,0,0,0,0,13,2,6,4,0,0,7,2,4,0,0,0,20,1.08,0,0,6300,2520,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.5,16,Dried Fruits and Nuts
+Second Nature Wholesome Medley,1,ounce,28,0,140,4,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2,0,0,0,0,14,2,9,0,0,0,20,0.72,0,0,4375,840,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.99,14,Dried Fruits and Nuts
+SunRidge Farms Dried Nectarines,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,8.99,0,Dried Fruits and Nuts
+H-E-B Select Ingredients O To The Mega Trail Mix,0.25,cup,30,0,160,4,0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,3.5,4.5,0,0,13,2,9,0,0,0,20,0.72,0,0,4200,1320,0,0,0,0,0,0,0,0,0,0,0,0,0,1.2,0,0,0,H-E-B,4.98,8,Dried Fruits and Nuts
+H-E-B Select Ingredients Whole Natural Raw Almonds,28,nuts,28,0,160,6,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1,0,0,0,0,6,3,1,0,0,0,80,1.08,80,150,7000,0,0,0.3,0.6,0,0,0,0,0.255,0,0,0,0,0,0,0,6.75,0,H-E-B,7.98,16,Dried Fruits and Nuts
+H-E-B Sea Salt and Pepper Cashews,0.25,cup,30,0,170,5,0,0,0,0,0,0,0,0,0,0,0,0,0,14,2.5,0,0,0,0,9,1,2,0,0,0,20,1.8,0,0,0,2880,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.59,7,Dried Fruits and Nuts
+SunRidge Farms Dried Calimyrna Figs,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,9.99,0,Dried Fruits and Nuts
+Maui &amp; Sons Coconut Chips Lightly Roasted &amp; Crunchy,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.69,0,Dried Fruits and Nuts
+Woodstock Farms Organic Fiesta Taco Almonds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,18.29,0,Dried Fruits and Nuts
+SunRidge Farms Munchalot/ Mixed Munchies,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.49,0,Dried Fruits and Nuts
+SunRidge Farms Chocolate Hazelnut Butter Stock- Chocolate Chip Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,14.99,0,Dried Fruits and Nuts
+H-E-B Berry Orchard Trail Mix,0.25,cup,32,0,140,3,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0.5,2,3,0,0,19,2,13,0,0,0,40,0.72,0,0,5600,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,2.7,0,H-E-B,8.98,21,Dried Fruits and Nuts
+Winnuts Party Botanero Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.78,0,Dried Fruits and Nuts
+H-E-B Hit The Trail Trail Mix,3,tbsp,28,0,140,4,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1.5,3.5,1.5,0,0,15,1,11,0,0,0,20,0.72,0,0,5950,960,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,8.98,42,Dried Fruits and Nuts
+SunRidge Farms Organic California Apricot Halves,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,14.99,0,Dried Fruits and Nuts
+Lance Roasted And Salted Sunflower Kernels,1,pkg,42.5,0,270,10,0,0,0,0,0,0,0,0,0,0,0,0,0,21,2.5,0,0,0,5,10,5,0,0,0,0,20,1.8,0,0,0,3840,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2,1,Dried Fruits and Nuts
+Majans Bhuja Bhuja Snacks Crunchy Seasoned Peas,0.5,cup,25,0,100,5,0,0,0,0,0,0,0,0,0,0,0,0,0,4.5,0.5,0,0,0,0,14,2,1,0,0,0,20,0.54,0,0,0,3840,0,0,0,0,0,0,0,0,0,0,0,0,0,0.6,0,0,0,H-E-B,3.99,8,Dried Fruits and Nuts
+Planters P3 Portable Protein Sweet Spicy Teriyaki Jerky,1,package,51,0,250,13,0,0,0,0,0,0,0,0,0,0,0,0,0,17,2,7,6,0,10,12,3,7,0,0,0,20,1.8,40,150,6650,10800,1.5,0.4,0.6,14,0,0,0,0,3,0,0,60,0,0,0,9.45,0,H-E-B,4.43,3,Dried Fruits and Nuts
+Karen's Naturals Organic Just Peas,1,oz,28,0,100,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0,0,0,0,0,18,3,7,0,0,0,20,1.8,0,0,0,120,0,0,0,0,0,400,0,0,0,0,0,0,0,12,0,0,0,H-E-B,4.99,3,Dried Fruits and Nuts
+Mexsnax Spanish Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.98,0,Dried Fruits and Nuts
+Blue Diamond Bold Wasabi And Soy Sauce Almonds,1,oz,28,0,170,6,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,0,0,0,0,6,3,2,0,0,0,80,1.08,80,0,6300,2760,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.45,0,H-E-B,3.44,6,Dried Fruits and Nuts
+H-E-B Dried Fruit Jumbo Raisin Medley,0.25,cup,40,0,130,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,2,29,0,0,0,20,1.08,0,0,0,240,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.24,9,Dried Fruits and Nuts
+Blue Diamond Toasted Coconut Flavored Almonds,28,nuts,28,0,160,6,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1,0,0,0,0,7,3,3,0,0,0,60,1.08,80,0,6650,840,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.45,0,H-E-B,3.44,6,Dried Fruits and Nuts
+Woodstock Farms Organic Goji Berry Blast,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,9.99,0,Dried Fruits and Nuts
+Hoody's Roasted In-shell Peanuts,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.98,0,Dried Fruits and Nuts
+Lance Ranch Peanuts,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2,0,Dried Fruits and Nuts
+GKI Foods Almonds With Milk Chocolate,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.99,0,Candy
+H-E-B Organics Pumpkin Seeds,0.25,cups,30,0,160,7,0,0,0,0,0,0,0,0,0,0,0,0,0,14,2.5,0,0,0,0,5,1,0,0,0,0,20,4.5,0,0,0,120,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.27,9,Dried Fruits and Nuts
+Frito Lay Munchies Honey Roasted Peanuts,0,,0,0,230,10,0,0,0,0,0,0,0,0,0,0,0,0,0,17,3.5,0,0,0,0,10,3,6,0,0,0,0,0.72,0,0,0,2880,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,0.44,0,Dried Fruits and Nuts
+Ocean Spray Craisins Greek Yogurt,2,tbs,30,0,140,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,0,0,0,0,21,1,21,0,0,0,40,0,0,0,0,240,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.59,5,Dried Fruits and Nuts
+H-E-B Select Ingredients Energy Crunch Trail Mix,0.25,cup,30,0,140,6,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,3,3,0,0,14,3,7,0,0,0,40,1.08,0,0,8050,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.18,9,Dried Fruits and Nuts
+H-E-B Dark Chocolate Almonds,11,pieces,40,0,220,4,0,0,0,0,0,0,0,0,0,0,0,0,0,16,7,0,0,0,0,19,3,14,0,0,0,40,1.08,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,9.99,14,Dried Fruits and Nuts
+Blue Diamond Whole Natural Grab And Go Bags Almonds,1,bag,18,0,100,4,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0.5,0,0,0,0,3,2,1,0,0,0,40,0.72,40,0,4550,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.75,0,H-E-B,3.58,7,Dried Fruits and Nuts
+Just Tomatoes, Etc.! Just Hot Veggies,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.99,0,Dried Fruits and Nuts
+Planters NUT-rition Blueberry Nut Sustaining Energy Mix,1,pack,51,0,260,10,0,0,0,0,0,0,0,0,0,0,0,0,0,16,2.5,8,4.5,0,0,20,4,14,0,0,0,80,1.8,80,150,10850,3000,0,0.3,0.8,0,0,0,0,0,2,0,0,0,0,1.2,0,5.4,0,H-E-B,5.86,5,Dried Fruits and Nuts
+Bare Chocolate Coconut Chips,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.79,0,Dried Fruits and Nuts
+H-E-B Lightly Salted Dry Roasted Peanuts,0.25,cup,28,0,160,7,0,0,0,0,0,0,0,0,0,0,0,0,0,14,2,7,4.5,0,0,6,2,1,0,0,0,20,0.72,40,100,6300,2400,0,0.2,0,0,0,0,0,0,4,0,0,40,0,0,0,2.7,0,H-E-B,2.48,16,Dried Fruits and Nuts
+H-E-B Select Ingredients Spanish Peanuts,0.25,cup,30,0,170,8,0,0,0,0,0,0,0,0,0,0,0,0,0,15,2.5,7,5,0,0,5,3,1,0,0,0,20,0.72,40,100,7700,2880,0,0,0.7,0,0,0,0,0,4,0,0,0,0,0,0,2.7,0,H-E-B,2.68,12,Dried Fruits and Nuts
+H-E-B Fancy Whole Cashews - Raw,0.25,cup,30,0,170,5,0,0,0,0,0,0,0,0,0,0,0,0,0,13,2.5,0,0,0,0,9,1,2,0,0,0,20,1.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.99,7,Dried Fruits and Nuts
+H-E-B Heavenly Cranberry Crunch,0.25,cup,30,0,140,4,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2.5,0,0,0,0,14,2,8,0,0,0,40,1.08,0,0,0,840,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.39,7,Dried Fruits and Nuts
+Just Tomatoes, Etc.! Just Mango,1,oz,28,0,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,3,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5500,0,0,0,0,0,0,0,18,0,0,0,H-E-B,4.99,2,Dried Fruits and Nuts
+Just Tomatoes, Etc.! Organic Just Mango,1,oz,28,0,100,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0,0,0,0,0,37,4,32,0,0,0,20,0,0,0,0,0,0,0,0,0,0,8500,0,0,0,0,0,0,0,60,0,0,0,H-E-B,5.49,1.5,Dried Fruits and Nuts
+Just Tomatoes, Etc.! Just Strawberries 'n Bananas,1,oz,28,0,110,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,2,17,0,0,0,20,0.36,0,0,12600,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,H-E-B,5.49,2,Dried Fruits and Nuts
+H-E-B Select Ingredients City Street Nuts Hill Country Pumpkin Spiced Pecans,10,pieces,30,0,160,1,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,0,0,0,0,20,1,18,0,0,0,0,0.36,0,0,1750,1440,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.98,7,Dried Fruits and Nuts
+Lone Star Nut &amp; Candy Imperial Roasted Mixed Nuts, sold by the,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,11.29,0,Dried Fruits and Nuts
+Planters Redskin Spanish Peanuts,1,oz,28,0,170,7,0,0,0,0,0,0,0,0,0,0,0,0,0,15,2.5,7,5,0,0,4,3,1,0,0,0,20,1.08,60,100,7350,2760,0.9,0.3,0.7,0,0,0,0,0,4,0,0,0,0,0,0,2.7,0,H-E-B,3.18,1,Dried Fruits and Nuts
+El Guapo Raisins,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,0.99,0,Dried Fruits and Nuts
+Sunrise Natural Foods Okra Chips,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,10.49,0,Dried Fruits and Nuts
+SunRidge Farms Dried, Diced Papaya,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.99,0,Dried Fruits and Nuts
+Beer Nuts Original Peanuts,0,,0,0,170,7,0,0,0,0,0,0,0,0,0,0,0,0,0,14,3,0,0,0,0,7,2,2,0,0,0,20,1.8,52,90,5600,1920,0.9,0.16,0.5,0,0,0,0,0,3,0,0,0,0,0,0,1.35,0,H-E-B,3.09,0,Dried Fruits and Nuts
+SunRidge Farms Butter Toffee Pecans,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,11.99,0,Dried Fruits and Nuts
+Just Tomatoes, Etc.! Organic Just Veggies,1,oz,28,0,100,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,21,2,10,0,0,0,40,1.08,0,0,0,960,0,0,0,0,0,3000,0,0,0,0,0,0,0,27,0,0,0,H-E-B,6.49,4,Dried Fruits and Nuts
+SunRidge Farms Abco Labs Brewers Yeast,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,11.99,0,Dried Fruits and Nuts
+Bigs Sunflower Seeds Original Salted &amp; Roasted,0.75,cup,30,0,180,7,0,0,0,0,0,0,0,0,0,0,0,0,0,16,1.5,0,0,0,0,6,3,1,0,0,0,40,1.8,0,0,0,3600,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.47,3,Dried Fruits and Nuts
+Planters P3 Honey Peanuts &amp; Jerky &amp; Sunflower Kernels,1,package,51,0,250,13,0,0,0,0,0,0,0,0,0,0,0,0,0,17,2,7,6,0,10,12,3,7,0,0,0,20,1.8,40,150,6650,10800,1.5,0.4,0.6,14,0,0,0,0,3,0,0,60,0,0,0,9.45,0,H-E-B,1.99,0,Dried Fruits and Nuts
+Just Tomatoes, Etc.! Just Corn,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.29,0,Dried Fruits and Nuts
+Snack Factory Fruit Sticks Apple Strawberry,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.59,0,Dried Fruits and Nuts
+Ocean Spray Craisins Original Dried Cranberries Value Pack,0.25,cup,40,0,130,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,3,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.49,17,Dried Fruits and Nuts
+Kar's Roasted N Salted Peanuts,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.99,0,Dried Fruits and Nuts
+H-E-B Dry Roasted Peanuts,1,package,50,0,280,11,0,0,0,0,0,0,0,0,0,0,0,0,0,24,3.5,12,7,0,0,12,4,3,0,0,0,20,1.08,80,0,10850,8640,0,0,1,0,0,0,0,0,6,0,0,0,0,0,0,0,0,H-E-B,2,0,Dried Fruits and Nuts
+H-E-B Select Ingredients Mixed Nuts Deluxe Unsalted,3,tbsp,28,0,180,5,0,0,0,0,0,0,0,0,0,0,0,0,0,15,2,9,3.5,0,0,7,2,1,0,0,0,40,1.44,60,100,5950,0,1.2,0.4,0.5,0,0,0,0,0,0.4,0,0,0,0,0,0,2.7,0,H-E-B,15.98,32,Dried Fruits and Nuts
+SunRidge Farms CocoNo Deluxe Trail Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.59,0,Dried Fruits and Nuts
+SunRidge Farms Pistachio Meats - Raw, Shelled,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,13.99,0,Dried Fruits and Nuts
+H-E-B Organics Hit the Trail Mix,0.25,cups,30,0,150,6,0,0,0,0,0,0,0,0,0,0,0,0,0,10,1.5,0,0,0,0,11,2,7,0,0,0,20,1.44,0,0,0,720,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.67,9,Dried Fruits and Nuts
+Corn Nuts Original Crunchy Corn Kernels,0.33,cup,28,0,130,10,0,0,0,0,0,0,0,0,0,0,0,0,0,18,2.5,5,8,0,0,81,6,1,0,0,0,0,1.8,0,0,10500,15840,0,0,0,0,0,0,0,0,0,0,0,0,0,1.2,0,0,0,H-E-B,1.08,4,Dried Fruits and Nuts
+SunRidge Farms Mocha Marble Crunch,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,7.99,0,Dried Fruits and Nuts
+H-E-B Honey Roasted Sesame Sticks,20,pieces,30,0,160,2,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1.5,0,0,0,0,15,1,3,0,0,0,40,1.08,0,0,0,8640,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.19,6,Dried Fruits and Nuts
+Planters Dry Roasted Pistachios,0.5,cup,28,0,160,6,0,0,0,0,0,0,0,0,0,0,0,0,0,13,1.5,7,4,0,0,8,3,2,0,0,0,20,1.08,0,100,9800,3600,0,0.4,0.3,0,0,0,0.225,0,0,0,0,0,0,0,0,0,0,H-E-B,7.98,7,Dried Fruits and Nuts
+H-E-B Select Ingredients Chili Lemon Pistachios,0.25,cup,28,0,170,7,0,0,0,0,0,0,0,0,0,0,0,0,0,13,2,0,0,0,0,7,1,2,0,0,0,20,1.08,0,100,945,8160,0,0.3,0.3,0,0,100,0,0,0,0,0,0,0,1.2,0,0,0,H-E-B,4.98,4,Dried Fruits and Nuts
+H-E-B Hit The Trail Trail Mix,3,tbsp,28,0,140,4,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1.5,3.5,1.5,0,0,15,1,11,0,0,0,20,0.72,0,0,5950,960,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.18,11,Dried Fruits and Nuts
+SunRidge Farms Raw Nonpareil Almonds,0.25,cup,30,0,170,6,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,0,0,0,0,6,4,1,0,0,0,80,1.44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.99,15,Dried Fruits and Nuts
+SunRidge Farms Date Pieces,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.49,0,Dried Fruits and Nuts
+Just Tomatoes, Etc.! Organic Strawberries 'n Bananas,1,oz,28,0,110,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0,0,0,0,0,25,2,17,0,0,0,20,0.36,0,0,13300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,H-E-B,5.89,2,Dried Fruits and Nuts
+SunRidge Farms Outragin' Cajun Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.69,0,Dried Fruits and Nuts
+SunRidge Farms Dark Chocolate Toffee Almonds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,7.99,0,Candy
+Second Nature Simplicity Medley,0.25,cup,28,0,120,3,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0.5,0,0,0,0,12,2,7,0,0,0,40,0.72,0,0,3500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.2,0,0,0,H-E-B,5.99,14,Dried Fruits and Nuts
+AustiNuts Sweet Wasabi Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.49,0,Dried Fruits and Nuts
+SunRidge Farms Roasted &amp; Salted Black Pepper Cashews,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,9.99,0,Dried Fruits and Nuts
+Just Tomatoes, Etc.! Just Pomegranate,1,oz,28,0,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,1,22,0,0,0,0,0.36,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,9,0,0,0,H-E-B,8.99,2.5,Dried Fruits and Nuts
+SunRidge Farms Wild Ginger Harvest Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.49,0,Dried Fruits and Nuts
+Woodstock Farms Organic Sriracha Almonds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,17.99,0,Dried Fruits and Nuts
+H-E-B Organics Mix Nuts, Roasted and Salted,0.25,cups,30,0,180,7,0,0,0,0,0,0,0,0,0,0,0,0,0,15,2,0,0,0,0,6,2,1,0,0,0,40,1.08,0,0,0,1080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.67,8,Dried Fruits and Nuts
+Chinook Seedery Sunflower Seeds Hatch Green Chile,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.99,0,Dried Fruits and Nuts
+Bulk Spicy Dry Roasted Almonds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,9.49,0,Dried Fruits and Nuts
+Sun-Maid Vanilla Yogurt Raisins,0,,0,0,120,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,20,1,17,0,0,0,20,0.36,0,0,0,360,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.98,0,Dried Fruits and Nuts
+Newman's Own Organics The Second Generation Raisins,0.25,cup,40,0,120,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,2,24,0,0,0,20,0.72,0,0,10500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.2,0,0,0,H-E-B,5.45,11,Dried Fruits and Nuts
+H-E-B Organics Sunflower Seeds Dry Roasted &amp; Unsalted,0.25,cups,30,0,170,7,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1.5,0,0,0,0,6,3,1,0,0,0,40,1.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.77,9,Dried Fruits and Nuts
+H-E-B Trail Mix, Berry Orchard Multipack,1,package,50,0,220,4,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,4,6,0,0,28,4,19,0,0,0,60,1.08,0,0,8050,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.98,8,Dried Fruits and Nuts
+H-E-B Organics Dried Cranberries,0.25,cups,40,0,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0,0,0,0,0,29,2,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.97,6,Dried Fruits and Nuts
+Central Market Honey Roasted Virginia Peanuts,1,oz,28,0,160,6,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1.5,0,0,0,0,8,2,5,0,0,0,20,1.08,0,0,0,2760,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.49,9,Dried Fruits and Nuts
+Blue Diamond Whole Natural Almonds Value Pack,1,oz,28,0,160,6,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1,0,0,0,0,6,3,1,0,0,0,80,1.08,80,0,7350,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.45,0,H-E-B,8.98,16,Dried Fruits and Nuts
+H-E-B Select Ingredients Milk Chocolate Turbinado And Cinnamon Pecans,0.25,cup,30,0,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,330,0.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.98,2,Dried Fruits and Nuts
+Newman's Own Organic Raisins,1,box,43,0,130,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,2,25,0,0,0,20,0.72,0,0,11200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.2,0,0,0,H-E-B,4.15,6,Dried Fruits and Nuts
+Emerald Honey Glazed Almonds,1,oz,28,0,140,4,0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,6,2.5,0,0,13,2,8,0,0,0,60,0.72,0,0,0,3600,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.94,6,Dried Fruits and Nuts
+Gourmet Nut Power Up Nature's Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.99,0,Dried Fruits and Nuts
+Frito Lay Flamas Flavored Sunflower Seeds,1,package,27,0,180,6,0,0,0,0,0,0,0,0,0,0,0,0,0,15,2,0,0,0,0,4,3,1,0,0,0,20,1.08,0,0,0,44880,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,0.44,1,Dried Fruits and Nuts
+SunRidge Farms Organic Sunflower Seeds, Raw Hulled,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.99,0,Dried Fruits and Nuts
+Emerald Original Salty Sweet,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.94,0,Dried Fruits and Nuts
+Sunsweet Pitted Amaz!n Prunes Bite Size,1.5,oz,40,0,100,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,3,15,0,0,0,20,0.36,0,0,10150,0,0,0,0,0,0,300,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.18,5,Dried Fruits and Nuts
+Inka Corn Gourmet Roasted Plantain Chips,20,chips,28,0,140,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7,3,0,0,0,0,20,1,1,0,0,0,0,0,0,0,7000,1200,0,0,0,0,0,400,0,0,0,0,0,0,0,9,0,0,0,H-E-B,2.19,4,Dried Fruits and Nuts
+Just Tomatoes, Etc.! Organic Just Bananas,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.49,0,Dried Fruits and Nuts
+Sun-Maid Dark Chocolate Yogurt Raisin,0,,0,0,110,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3.5,0,0,0,0,20,2,15,0,0,0,20,1.08,0,0,0,360,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.98,0,Dried Fruits and Nuts
+Bulk Roasted Tamari Almonds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,7.99,0,Dried Fruits and Nuts
+Emerald Sweet Heat Virginia Peanuts,1,oz,28,0,130,4,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,4.5,2.5,0,0,11,2,7,0,0,0,20,0.36,0,0,0,5040,0,0,0,0,0,300,0,0,0,0,0,0,0,3.6,0,0,0,H-E-B,2.94,10,Dried Fruits and Nuts
+Bigs Sea Salt And Black Pepper Flavor Sunflower Seeds Re-Sealable Big Bag!,0.75,cup,30,0,170,7,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1.5,0,0,0,0,6,3,1,0,0,0,40,1.8,0,0,0,4560,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.47,3,Dried Fruits and Nuts
+H-E-B Honey Roasted Mixed Nuts,0.25,cup,30,0,190,6,0,0,0,0,0,0,0,0,0,0,0,0,0,15,2,8,3.5,0,0,8,2,5,0,0,0,20,0.72,0,0,0,2880,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.38,9,Dried Fruits and Nuts
+Lone Star Nut &amp; Candy Houston Blend, sold by the,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.49,0,Dried Fruits and Nuts
+Lance Honey Roasted Peanuts,1,package,36,0,230,7,0,0,0,0,0,0,0,0,0,0,0,0,0,18,3.5,0,0,0,0,8,2,4,0,0,0,0,0.36,0,0,0,1560,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2,1,Dried Fruits and Nuts
+Wildway Apple Cinnamon Grain Free Granola,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,7.5,0,Cereal
+H-E-B Organics Mango Slices, Unsweetened,3.5,pcs,40,0,130,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0,0,0,0,34,4,30,0,0,0,20,0.36,0,0,0,0,0,0,0,0,0,1500,0,0,0,0,0,0,0,54,0,0,0,H-E-B,5.97,30,Dried Fruits and Nuts
+H-E-B Habanero Covered Peanuts,0.25,cup,25,0,130,4,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2,0,0,0,0,11,2,3,0,0,0,20,1.08,0,0,0,3000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.5,8,Dried Fruits and Nuts
+H-E-B Select Ingredients Halves and Pieces Cashews,1,oz,28,0,170,5,0,0,0,0,0,0,0,0,0,0,0,0,0,13,2.5,7,2.5,0,0,8,1,1,0,0,0,20,1.44,60,150,0,2880,1.2,0.5,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,16.98,32,Dried Fruits and Nuts
+Frito Lay BBQ Sunflower Seeds,1,package,27,0,180,6,0,0,0,0,0,0,0,0,0,0,0,0,0,15,2,5,8,0,0,4,3,1,0,0,0,20,1.08,0,0,0,44160,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,0.44,1,Dried Fruits and Nuts
+AustiNuts Salted Pumpkin Kernels,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.49,0,Dried Fruits and Nuts
+Sunshine Nut Company Cashews Roasted With Spices,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.49,0,Dried Fruits and Nuts
+H-E-B Yogurt Raisins,34,pieces,40,0,180,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7,7,0,0,0,0,28,1,25,0,0,0,40,0.36,0,0,0,480,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,7.99,16,Dried Fruits and Nuts
+Sun-Maid Natural California Raisins,0.25,cup,40,0,130,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,2,29,0,0,0,20,1.08,0,0,10850,240,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.32,9,Dried Fruits and Nuts
+Woodstock Farms Organic Fiesta Pumpkin Seeds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,7.99,0,Dried Fruits and Nuts
+Lance Fresh Salted Peanuts,1,package,39,0,230,9,0,0,0,0,0,0,0,0,0,0,0,0,0,16,3,0,0,0,0,11,5,1,0,0,0,0,0.72,0,0,0,4320,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2,1,Dried Fruits and Nuts
+SunRidge Farms Organic No-Salt Roasted Soy Nuts,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.29,0,Dried Fruits and Nuts
+SunRidge Farms Organic Supreme Fruit &amp; Nut Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,9.99,0,Dried Fruits and Nuts
+Sunshine Nut Company Cashews Roasted And Perfectly Plain,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.49,0,Dried Fruits and Nuts
+Sun-Maid Canister Raisins,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.42,0,Dried Fruits and Nuts
+Jansal Valley Dried Strawberries,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.99,0,Dried Fruits and Nuts
+Paradise Old English Fruit And Peel Mix,2,tbsp,30,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,2,14,0,0,0,30,1.08,0,0,0,384,0,0,0,0,0,0,0,0,0,0,0,0,0,1.2,0,0,0,H-E-B,6.24,15,Dried Fruits and Nuts
+SunRidge Farms Turkish Apricots - Unsulphured,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,7.99,0,Dried Fruits and Nuts
+Bulk Junior Mammoth Pecan Halves,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,9.49,0,Dried Fruits and Nuts
+SunRidge Farms Cinnamon Almond Berry Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.49,0,Dried Fruits and Nuts
+H-E-B Select Ingredients Mixed Nuts With Peanuts,3,tbsp,28,0,180,6,0,0,0,0,0,0,0,0,0,0,0,0,0,15,2.5,8,4,0,0,5,2,1,0,0,0,20,0.72,60,100,0,2640,0.9,0.3,0.5,0,0,0,0,0,2,0,0,0,0,0,0,2.7,0,H-E-B,12.58,32,Dried Fruits and Nuts
+Karen's Naturals Just Tomatoes,1,oz,28,0,90,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,19,12,12,0,0,0,40,1.8,0,0,0,840,0,0,0,0,0,2500,0,0,0,0,0,0,0,36,0,0,0,H-E-B,4.99,2,Dried Fruits and Nuts
+Corn Nuts Ranch Flavored Crunchy Corn Kernels,0.33,cup,28,0,130,10,0,0,0,0,0,0,0,0,0,0,0,0,0,18,2.5,6,9,0,0,80,5,1,0,0,0,0,1.44,0,0,10150,19680,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.08,4,Dried Fruits and Nuts
+Sun Date Pitted Dates,5,dates,40,0,120,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,3,29,0,0,0,20,0.36,0,0,8400,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.14,7,Dried Fruits and Nuts
+SunRidge Farms Organic Dried Goji Berries,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,21.99,0,Dried Fruits and Nuts
+H-E-B Jumbo Fancy Cashews,0.25,cup,30,0,170,5,0,0,0,0,0,0,0,0,0,0,0,0,0,14,2.5,0,0,0,0,8,1,2,0,0,0,20,1.8,0,0,0,2520,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.99,7,Dried Fruits and Nuts
+H-E-B Organics Supreme Fruit &amp; Nut Mix,0.25,cups,30,0,140,4,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,0,0,0,0,15,2,10,0,0,0,20,0.72,0,0,0,600,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.97,8,Dried Fruits and Nuts
+H-E-B Mammoth Pecan Halves,0.25,cup,30,0,220,3,0,0,0,0,0,0,0,0,0,0,0,0,0,21,1,0,0,0,0,4,3,1,0,0,0,20,0.72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.2,0,0,0,H-E-B,4.99,6,Dried Fruits and Nuts
+H-E-B Organics Dried Cranberries,0.25,cup,40,0,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,33,2,26,0,0,0,0,0.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.19,4,Dried Fruits and Nuts
+Caudill Seed Company Peanut Butter Filled Pretzels,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,7.89,0,Dried Fruits and Nuts
+Samurai Hot Peanuts,1,oz,30,0,180,8,0,0,0,0,0,0,0,0,0,0,0,0,0,14,2,0,0,0,0,6,1,0,0,0,0,20,1.44,0,0,0,5760,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,0.99,3,Dried Fruits and Nuts
+Emerald 100 Calorie Packs Dry Roasted Almonds,1,package,18,0,100,4,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0.5,6,2,0,0,4,2,1,0,0,0,40,0.72,0,0,4375,3600,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.4,0,H-E-B,3.44,7,Dried Fruits and Nuts
+Lone Star Nut &amp; Candy Chilean Flame Raisins,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.69,0,Dried Fruits and Nuts
+SunRidge Farms Toasted Corn Nuts,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.99,0,Dried Fruits and Nuts
+Amport Foods Banana Chips,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,10,0,Dried Fruits and Nuts
+Jansal Valley Dried Cranberries,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,0.98,0,Dried Fruits and Nuts
+Ocean Spray Craisins Dried Cranberries With Blueberry Juice,0.333,cup,40,0,140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,3,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.25,4,Dried Fruits and Nuts
+H-E-B Praline Pecans,0.25,cup,32,0,200,3,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1.5,8,5,0,0,13,1,6,0,0,0,20,0.72,0,0,0,2880,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.38,8,Dried Fruits and Nuts
+H-E-B Texas Heat Trail Mix,0.25,cup,28,0,150,5,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1.5,4,3,0,0,12,1,0,0,0,0,20,0.72,0,0,0,3600,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.88,6,Dried Fruits and Nuts
+Sun-Maid Dark Chocolate Yogurt Raisins,0.25,cup,30,0,120,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3.5,0,0,0,0,21,2,16,0,0,0,20,1.08,0,0,6650,360,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.38,7,Dried Fruits and Nuts
+Bulk Honey tasted glazed almonds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.99,0,Dried Fruits and Nuts
+Mexsnax Chickpeas Garbanzos Con Chile Y Limon,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.98,0,Dried Fruits and Nuts
+H-E-B Organics Dry Roasted Cashews, Unsalted,0.25,cups,30,0,170,5,0,0,0,0,0,0,0,0,0,0,0,0,0,13,2.5,0,0,0,0,10,1,2,0,0,0,20,1.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.37,8,Dried Fruits and Nuts
+Fisher Salted In Shell Peanuts,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2,0,Dried Fruits and Nuts
+David Roasted And Salted Original Sunflower Seeds,0.25,cup,30,0,190,8,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1.5,6,7,0,0,5,2,0,0,0,0,40,1.44,120,250,0,30720,1.5,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2.7,0,H-E-B,2.38,7,Dried Fruits and Nuts
+Mariani Shelled Premium Walnuts,0.25,cup,30,0,200,5,0,0,0,0,0,0,0,0,0,0,0,0,0,20,2,2.5,14,0,0,4,2,1,0,0,0,20,0.72,40,100,4550,0,0,0.5,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.98,9,Dried Fruits and Nuts
+Lone Star Nut &amp; Candy California Mix, sold by the,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.99,0,Dried Fruits and Nuts
+Ellis Pecan Honey Toasted Glazed Almonds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.99,0,Dried Fruits and Nuts
+Sunrise Natural Foods Garlic Chips,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,9.99,0,Dried Fruits and Nuts
+Planters Deluxe Pistachio Mix,1,oz,28,0,160,6,0,0,0,0,0,0,0,0,0,0,0,0,0,13,1.5,7,3.5,0,0,7,3,2,0,0,0,40,1.44,60,100,8400,1680,0,0.4,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,9.98,14,Dried Fruits and Nuts
+SunRidge Farms Roasted and Sea Salted Sunflower Seeds,1,oz,28,0,180,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,188.997,0.244944,453.5924,2362.46,0,0,0.21262499999999998,0,0,0,0,0,0,0,0,0,0,302.3948,0,0,0,0,0,H-E-B,2.99,28,Dried Fruits and Nuts
+Bulk Cinnamon Frosted Pecans,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,10.99,0,Dried Fruits and Nuts
+SunRidge Farms Organic Mango Grove Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,7.29,0,Dried Fruits and Nuts
+Planters Dry Roasted Peanuts,1,oz,28,0,160,7,0,0,0,0,0,0,0,0,0,0,0,0,0,14,2,7,4.5,0,0,5,2,1,0,0,0,20,1.44,40,100,7000,3600,0,0,0.6,0,0,0,0,0,3,0,0,0,0,0,0,2.7,0,H-E-B,3.5,16,Dried Fruits and Nuts
+Bulk Tamari Roasted Sunflower Seeds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.49,0,Dried Fruits and Nuts
+H-E-B Select Ingredients Whole Natural Raw Almonds,28,nuts,28,0,160,6,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1,0,0,0,0,6,3,1,0,0,0,80,1.08,80,150,7000,0,0,0.3,0.6,0,0,0,0,0.255,0,0,0,0,0,0,0,6.75,0,H-E-B,4.98,8,Dried Fruits and Nuts
+Sabritas Chile And Lime Flavored Peanuts,2,tbsp,30,0,200,7,0,0,0,0,0,0,0,0,0,0,0,0,0,17,3,0,0,0,0,5,3,1,0,0,0,0,0.36,0,0,0,4080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.99,7,Dried Fruits and Nuts
+Planters Party Size Cocktail Peanuts,1,oz,28,0,170,7,0,0,0,0,0,0,0,0,0,0,0,0,0,14,2,7,4.5,0,0,5,2,1,0,0,0,20,1.44,40,100,7000,2280,0,0,0.6,0,0,0,0,0,3,0,0,0,0,0,0,2.7,0,H-E-B,5.98,35,Dried Fruits and Nuts
+Hill Country Fare Peanut and Fried Pumpkin Seeds,0.25,cup,28,0,130,7,0,0,0,0,0,0,0,0,0,0,0,0,0,10,2,0,0,0,0,5,3,0,0,0,0,20,0.36,0,0,0,6000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.98,7,Dried Fruits and Nuts
+Hill Country Fare Cantinero Snack Mix,0.25,cup,30,0,170,8,0,0,0,0,0,0,0,0,0,0,0,0,0,11,2,0,0,0,0,9,0.5,0,0,0,0,20,0.36,0,0,0,5760,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.98,30,Dried Fruits and Nuts
+Samurai Regular Peanuts With Lemon,1,oz,30,0,150,6,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,0,0,0,0,14,2,0,0,0,0,20,1.08,0,0,0,5040,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,0.99,3,Dried Fruits and Nuts
+Bare Simply Banana Chips,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.79,0,Dried Fruits and Nuts
+Bare Granny Smith Apple Chips,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.79,0,Dried Fruits and Nuts
+Emerald Whole Cashews Roasted and Salted,1,oz,28,0,160,5,0,0,0,0,0,0,0,0,0,0,0,0,0,13,2,7,2.5,0,0,8,1,2,0,0,0,20,1.8,0,0,0,1920,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.94,5,Dried Fruits and Nuts
+SunRidge Farms Crispy Chile Picante Plantain Chips,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.99,0,Dried Fruits and Nuts
+Nutty And Fruity Ginger Chunks,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.99,0,Dried Fruits and Nuts
+Fisher Chef's Naturals Dried Sweentened Cranberries,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1,0,Dried Fruits and Nuts
+Lone Star Nut &amp; Candy Cinnamon Splendor, sold by the,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.99,0,Dried Fruits and Nuts
+H-E-B Texas Heat Trail Mix,0.25,cup,28,0,150,5,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1.5,3.5,3.5,0,0,12,2,0,0,0,0,20,0.72,0,0,3675,4080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.98,18,Dried Fruits and Nuts
+SunRidge Farms Dry Roasted Peanuts, Salted,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.79,0,Dried Fruits and Nuts
+Sun-Maid Natural California Raisins Mini-Snacks,0,,0,0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,10,0,0,0,0,0.36,0,0,3850,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.39,0,Dried Fruits and Nuts
+True North Almond Pecan Crunch,5,clusters,28,0,150,4,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,7,2.5,0,0,10,2,5,0,0,0,40,0.72,60,100,0,2040,0.9,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,5.4,0,H-E-B,2.98,5,Dried Fruits and Nuts
+Bare Baked Crunchy Cinnamon Apple Chips,0.5,cup,30,0,110,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,4,21,0,0,0,20,0.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.79,3,Dried Fruits and Nuts
+Blue Diamond 100 Calorie Oven Roasted Sea Salt Almonds,1,bag,17,0,100,4,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0.5,0,0,0,0,3,2,1,0,0,0,40,0.72,40,80,4375,1920,0.6,0.2,0.4,0,0,0,0,0.136,0.8,0,0,0,0,0,0,5.4,0,H-E-B,3.58,7,Dried Fruits and Nuts
+Lone Star Nut &amp; Candy Mexicali Fire Mix, sold by the,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.99,0,Dried Fruits and Nuts
+AustiNuts Salted Mixed Nuts,1,oz,28,0,160,6,0,0,0,0,0,0,0,0,0,0,0,0,0,14,2,0,0,0,0,6,2,1,0,0,0,30,1.44,0,0,0,5160,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.99,7,Dried Fruits and Nuts
+Lance Boston Old Style Candied Peanuts,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,0.99,0,Dried Fruits and Nuts
+Lance Star Bites Candied Peanuts,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,0.99,0,Dried Fruits and Nuts
+Planters Smoked Peanuts,39,pieces,28,0,160,7,0,0,0,0,0,0,0,0,0,0,0,0,0,14,2,7,4.5,0,0,5,2,1,0,0,0,20,1.44,40,100,6650,4800,0,0,0.5,0,0,0,0,0,3,0,0,0,0,0,0,2.7,0,H-E-B,1.48,6,Dried Fruits and Nuts
+SunRidge Farms Dark Chocolate Almonds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,7.99,0,Candy
+Samurai Hot Peanuts,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3,0,Dried Fruits and Nuts
+Woodstock Farms Organic Sriracha Sunflower Seeds,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.49,0,Dried Fruits and Nuts
+David Original Sunflower Seeds,0.25,cup,30,0,190,8,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1.5,6,7,0,0,5,2,0,0,0,0,40,1.44,120,250,8400,61440,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.7,0,H-E-B,1.24,2.5,Dried Fruits and Nuts
+Mariani Cherries,0.25,cup,40,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,1,27,0,0,0,20,0,16,20,7350,0,0,0.2,0.04,0,0,1750,0,0.068,0.8,0,0,16,0,0,0,1.08,0,H-E-B,3.29,3.5,Dried Fruits and Nuts
+Just Tomatoes, Etc.! Organic Just Blueberries,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,7.99,0,Dried Fruits and Nuts
+SunRidge Farms Miso Curry Nut Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.49,0,Dried Fruits and Nuts
+SunRidge Farms Coconut Apricot Rolls,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,14.99,0,Dried Fruits and Nuts
+H-E-B Dried Cranberries,0.25,cup,40,0,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0,0,0,0,0,33,2,26,0,0,0,0,0.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.89,5,Dried Fruits and Nuts
+Bare Honey Coconut Chips,0.5,cup,30,0,170,2,0,0,0,0,0,0,0,0,0,0,0,0,0,11,10,0,0,0,0,16,6,10,0,0,0,0,0.72,0,0,0,2040,0,0,0,0,0,0,0,0,0,0,0,0,0,1.2,0,0,0,H-E-B,3.79,3,Dried Fruits and Nuts
+Jubes Nata De Coco Pandan Flavor,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.49,0,Dried Fruits and Nuts
+SunRidge Farms Tamari Mixed Nuts,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,7.49,0,Dried Fruits and Nuts
+Planters Lightly Salted Mixed Nuts,1,oz,28,0,170,6,0,0,0,0,0,0,0,0,0,0,0,0,0,15,2,0,0,0,0,5,2,1,0,0,0,40,1.44,60,100,7000,960,0,0.3,0.6,0,0,0,0,0,2,0,0,0,0,0,0,2.7,0,H-E-B,4.98,10,Dried Fruits and Nuts
+H-E-B Organics Dried Cranberries 6 CT,1,box,28,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0,0,0,0,0,23,2,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.99,0,Dried Fruits and Nuts
+SunRidge Farms Glazed and Roasted Walnuts,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,8.99,0,Dried Fruits and Nuts
+Central Market Deluxe Cranberry Nut Mix,0.33,cup,40,0,210,5,0,0,0,0,0,0,0,0,0,0,0,0,0,15,2,0,0,0,0,16,3,9,0,0,0,40,0.72,0,0,0,2760,0,0,0,0,0,0,0,0,0,0,0,0,0,2.4,0,0,0,H-E-B,5.99,7,Dried Fruits and Nuts
+Sabritas Japanese Style Peanuts,0,,0,0,260,8,0,0,0,0,0,0,0,0,0,0,0,0,0,13,2.5,0,0,1,0,30,4,7,0,0,0,20,0.72,40,100,0,5520,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2,0,Dried Fruits and Nuts
+Just Tomatoes, Etc.! Just Strawberries 'n Bananas,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2,0,Dried Fruits and Nuts
+Blue Diamond Smokehouse Almonds,28,nuts,28,0,170,6,0,0,0,0,0,0,0,0,0,0,0,0,0,16,1,0,0,0,0,5,3,1,0,0,0,80,1.08,80,0,6650,3600,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.45,0,H-E-B,3.44,6,Dried Fruits and Nuts
+Bare Baked Crunchy Fuji &amp; Reds Apple Chips,0.5,cup,30,0,110,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,4,21,0,0,0,20,0.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.79,3,Dried Fruits and Nuts
+Sun-Maid Natural California Raisins,0,,0,0,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,2,20,0,0,0,0,0.72,0,0,0,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.98,0,Dried Fruits and Nuts
+H-E-B Dried Cranberries,0.25,cup,40,0,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0,0,0,0,33,2,26,0,0,0,0,0.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.99,11,Dried Fruits and Nuts
+Snack Factory Fruit Sticks Apple,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.59,0,Dried Fruits and Nuts
+Ellis Pecan Raw Shelled Pistachios,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,15.99,0,Dried Fruits and Nuts
+Falcon Trading Organic Blueberries,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,21.99,0,Dried Fruits and Nuts
+Falcon Trading Organic Medjool Dates,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.99,0,Dried Fruits and Nuts
+Just Tomatoes, Etc.! Just Strawberries,1.5,oz,42,0,160,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,37,5,22,0,0,0,60,0.72,0,0,0,120,0,0,0,0,0,0,0,0,0,0,0,0,0,96,0,0,0,H-E-B,6.49,1,Dried Fruits and Nuts
+H-E-B Select Ingredients Cashew Grande Whole Roasted Cashew With Sea Salt,15,pieces,28,0,170,5,0,0,0,0,0,0,0,0,0,0,0,0,0,13,2.5,0,0,0,0,8,1,1,0,0,0,20,1.44,0,0,5950,2880,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.98,12,Dried Fruits and Nuts
+Hill Country Fare Virginia Style Salted Peanuts,0.25,cup,28,0,170,7,0,0,0,0,0,0,0,0,0,0,0,0,0,14,2,0,0,0,0,5,2,0,0,0,0,20,0.36,0,0,0,4200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.98,7,Dried Fruits and Nuts
+H-E-B Select Ingredients Lightly Salted Roasted Salted Almonds,28,nuts,28,0,170,6,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,0,0,0,0,6,3,1,0,0,0,80,1.08,80,150,7000,2280,0,0.3,0.7,0,0,0,0,0.255,0,0,0,0,0,0,0,6.75,0,H-E-B,7.98,16,Dried Fruits and Nuts
+Planters Mixed Nuts,1,oz,28,0,170,6,0,0,0,0,0,0,0,0,0,0,0,0,0,15,2,8,4,3,0,5,2,1,0,0,0,40,1.44,60,100,6650,2040,0,0.3,0.6,0,0,0,0,0,2,0,0,0,0,0,0,2.7,0,H-E-B,4.98,10,Dried Fruits and Nuts
+Woodstock Farms Organic Goji Berry Power Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,9.99,0,Dried Fruits and Nuts
+Lone Star Nut &amp; Candy Hi-Energy Mix, sold by the,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.99,0,Dried Fruits and Nuts
+SunRidge Farms Hey! Santa Fe Party Mix,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.99,0,Dried Fruits and Nuts
+Blue Diamond Whole Natural Almonds,1,oz,28,0,160,6,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1,0,0,0,0,6,3,1,0,0,0,80,1.08,80,0,7350,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.45,0,H-E-B,3.44,6,Dried Fruits and Nuts
+SunRidge Farms Dry Roasted Almonds - Lightly Salted,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,6.49,0,Dried Fruits and Nuts
+Just Tomatoes, Etc.! Just Pineapple,1,oz,28,0,100,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,25,1,24,0,0,0,0,0.72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,H-E-B,6.99,2,Dried Fruits and Nuts
+Ocean Spray Craisins Dried Cranberries With Cherry Juice,0.333,cup,40,0,140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,3,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.25,4,Dried Fruits and Nuts
+H-E-B Dry Roasted Whole Almonds with Sea Salt,23,pieces,30,0,180,6,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,0,0,0,0,7,3,1,0,0,0,80,1.44,0,0,0,2160,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.49,8,Dried Fruits and Nuts
+Just Tomatoes, Etc.! Just Cherries,1,oz,28,0,100,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0,0,0,0,0,24,0,23,0,0,0,40,0.72,0,0,0,120,0,0,0,0,0,1250,0,0,0,0,0,0,0,4.8,0,0,0,H-E-B,6.99,2,Dried Fruits and Nuts
+Just Tomatoes, Etc.! Just Fruit Salad,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2,0,Dried Fruits and Nuts
+Emerald 100 Calorie Packs Natural Walnuts And Almonds,0,,0,0,100,3,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,3,4.5,0,0,3,2,1,0,0,0,20,0.36,0,0,3150,0,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.7,0,H-E-B,3.44,0,Dried Fruits and Nuts
+Bulk Pina Colada Frosted Pecans,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,10.99,0,Dried Fruits and Nuts
+Just Tomatoes, Etc.! Just Bananas,1,oz,28,0,110,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,2,17,0,0,0,0,0.36,0,0,16450,0,0,0,0,0,0,100,0,0,0,0,0,0,0,2.4,0,0,0,H-E-B,4.99,2.5,Dried Fruits and Nuts
+H-E-B Organics Cranberry Frontier Mix,0.25,cups,30,0,120,3,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,0,17,2,13,0,0,0,20,1.44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,4.67,9,Dried Fruits and Nuts
+H-E-B Select Ingredients Unsalted Deluxe Mixed Nuts,3,tbsp,28,0,180,5,0,0,0,0,0,0,0,0,0,0,0,0,0,15,2,9,3.5,0,0,7,2,1,0,0,0,40,1.44,60,100,5950,0,1.2,0.4,0.5,0,0,0,0,0,0.4,0,0,0,0,0,0,2.7,0,H-E-B,5.78,9,Dried Fruits and Nuts
+Sunshine Nut Company Cashews Roasted With Salt,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,5.49,0,Dried Fruits and Nuts
+Barcel Hot-Nuts Fuego Double Crunch Peanuts,0.33,cup,30,0,160,4,0,0,0,0,0,0,0,0,0,0,0,0,0,10,2,4.5,3.5,0,0,14,1,5,0,0,0,0,0,0,0,0,12480,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.28,3,Dried Fruits and Nuts
+H-E-B Organics Cranberry Walnut Clusters,0.25,cups,30,0,130,3,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,0,16,2,12,0,0,0,20,1.44,0,0,0,360,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.97,8,Dried Fruits and Nuts
+H-E-B Organics Raw Almonds,0.25,cups,30,0,190,8,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,0,0,0,0,5,4,1,0,0,0,80,1.44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,7.97,9,Dried Fruits and Nuts
+H-E-B Select Ingredients Salt &amp; Pepper Pistachios,0.25,cup,28,0,160,7,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1.5,0,0,0,0,7,1,2,0,0,0,40,1.08,0,100,9450,5760,0,0.3,0.3,0,0,0,0,0,0,0,0,0,0,2.4,0,0,0,H-E-B,4.98,4,Dried Fruits and Nuts
+H-E-B Select Ingredients California Sweet Raisins Mini Boxes,3,boxes,43,0,130,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,2,25,0,0,0,20,0.72,0,0,11200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.2,0,0,0,H-E-B,2,4.5,Dried Fruits and Nuts
+Sun-Maid Cape Cod Cranberries,1,box,28.3,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,1,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.59,6,Dried Fruits and Nuts
+Blue Diamond Lightly Salted Almonds,1,oz,28,0,170,6,0,0,0,0,0,0,0,0,0,0,0,0,0,16,1,0,0,0,0,5,3,1,0,0,0,80,1.08,80,0,6650,960,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.45,0,H-E-B,3.44,6,Dried Fruits and Nuts
+H-E-B Sweet With Pits Large Prunes,0.25,cup,40,0,110,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,2,13,0,0,0,0,0.36,0,0,10150,120,0,0,0,0,0,500,0,0,0,0,0,0,0,2.4,0,0,0,H-E-B,3.38,11,Dried Fruits and Nuts
+Emerald Jalapeno Cashews,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,2.94,0,Dried Fruits and Nuts
+SunRidge Farms Honey Roasted Peanuts,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,3.99,0,Dried Fruits and Nuts
+H-E-B Select Ingredients Sweetened Dried Cranberries,0.25,cup,40,0,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,33,2,26,0,0,0,0,0.36,0,0,525,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,H-E-B,1.69,3.5,Dried Fruits and Nuts
