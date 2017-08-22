@@ -1,5 +1,5 @@
-const titles = [ 'id', 'Description', 'Measure', 'Measure Unit', 'Weight', 'Water',
-  'Calories', 'Protein', 'Alanine', 'Arginine', 'Cystine', 'Histidine',
+const titles = [ 'id', 'Description', 'Measure', 'Measure Unit', 'Weight',
+  'Water', 'Calories', 'Protein', 'Alanine', 'Arginine', 'Cystine', 'Histidine',
   'Isoleucine', 'Leucine', 'Lysine', 'Methionine', 'Phenylalanine',
   'Threonine', 'Tryptophan', 'Tyrosine', 'Valine', 'Total Fat',
   'Saturated Fat', 'Monounsaturated Fat', 'Polyunsaturated Fat', 'Trans Fat',
@@ -20,24 +20,31 @@ const fs = require('fs');
 const protdom = 'https://www.heb.com';
 const starturl = 'https://www.heb.com/category/shop/food-and-drinks/grocery/snacks-and-candy/dried-fruits-and-nuts/3080/3508';
 const t = [ new Date().getTime() ];
-let id = 0;
+let id = 1;
 
-// Execute promise statements in order of tiers
 promisifyTierTwoURLs(starturl)
   .then(promisifyTierOneURLs)
   .then(splitFoodURLs)
   .catch(err => console.log(err));
 
-// Provide elapsed time between functions in seconds
+/**
+ * @name elapsedTime
+ * @description Provide elapsed time between functions in seconds
+ * @param {String} func - Name of function to display
+ * @param {Number} tn - time
+ */
 function elapsedTime(func, tn) {
   let lastind = t.length-1;
   console.log(func + ': ' + (tn-t[lastind])/1000 + 's');
   t.push(tn);
 }
-function showRejects(myarray) {
-  console.log(myarray);
-}
-// Promise to body content of url
+
+/**
+ * @name promisifyRequest
+ * @description Promise to body content of url
+ * @param {String} url - url
+ * @return {Promise}
+ */
 function promisifyRequest(url) {
   return new Promise((resolve, reject) => {
     request(url, { timeout: 10000 }, (err, resp, body) => {
@@ -53,44 +60,94 @@ function promisifyRequest(url) {
   });
 }
 
-// Promisify all tier 2 URLs and return array of tier 1 URLs
-function promisifyTierTwoURLs(t2urls) {
-  elapsedTime('promisifyTierTwoURLs', new Date().getTime());
-  const promiseArray = [ t2urls ].map(url => {
+/**
+ * @name promisifyTierThreeURLs
+ * @description Promisify all tier 2 URLs and return array of tier 1 URLs
+ * @param {Array} t3urls - Nested array of Tier 3 URLs
+ * @return {Promise}
+ */
+function promisifyTierThreeURLs(t3urls) {
+
+  elapsedTime('promisifyTierFourURLs', new Date().getTime());
+  const promiseArray = [ t3urls ].map(url => {
     return promisifyRequest(url)
-    .then(findTierOneURLs)
-    .catch(err => console.log(err));
+    .then(findTierTwoURLs)
+    .catch(err => fs.appendFile('ScrapeErrors.txt', err +'-T3\r\n'));
   });
   return Promise.all(promiseArray);
 }
 
-// Promisify all tier 1  URLs and return array of food URLs
+/**
+ * @name promisifyTierTwoURLs
+ * @description Promisify all tier 2 URLs and return array of tier 1 URLs
+ * @param {Array} t2urls - Nested array of Tier 2 URLs
+ * @return {Promise}
+ */
+function promisifyTierTwoURLs(t2urls) {
+  elapsedTime('promisifyTierThreeURLs', new Date().getTime());
+  // t2urls = t2urls.reduce((a, b) => a.concat(b));
+  const promiseArray = [ t2urls ].map(url => {
+    return promisifyRequest(url)
+    .then(findTierOneURLs)
+    .catch(err => fs.appendFile('ScrapeErrors.txt', err +'-T2\r\n'));
+  });
+  return Promise.all(promiseArray);
+}
+
+/**
+ * @name promisifyTierTwoURLs
+ * @description Promisify all tier 1  URLs and return array of food URLs
+ * @param {Array} t1urls - Nested array of Tier 2 URLs
+ * @return {Promise}
+ */
 function promisifyTierOneURLs(t1urls) {
-  elapsedTime('promisifyTierOneURLs', new Date().getTime());
+  elapsedTime('promisifyTierTwoURLs', new Date().getTime());
   t1urls = t1urls.reduce((a, b) => a.concat(b));
   const promiseArray = t1urls.map(url => {
     return promisifyRequest(url)
       .then(findFoodURLs)
-      .catch(err => console.log(err));
+      .catch(err => fs.appendFile('ScrapeErrors.txt', err +'-T1\r\n'));
   });
   return Promise.all(promiseArray);
 }
 
-// Split and Evaluate food urls one-by-one
+/**
+ * @name splitFoodURLs
+ * @description Split and Evaluate food urls one-by-one
+ * @param {Array} foodurls - Nested array of Food URLs
+ */
 function splitFoodURLs(foodurls) {
-  elapsedTime('splitFoodURLs', new Date().getTime());
+  elapsedTime('promisifyTierOneURLs', new Date().getTime());
   foodurls = foodurls.reduce((a, b) => a.concat(b));
   foodurls.forEach(url => {
     promisifyRequest(url)
       .then(scrapeNutrition)
-      .catch(err => {
-        fs.appendFile('ScrapeErrors.txt', url +'\r\n');
-        //splitFoodURLs( [[ url ]] );
-      });
+      .catch(err => fs.appendFile('ScrapeErrors.txt', err +'-Food\r\n'));
   });
 }
 
-// Takes tier 2 url bodies and returns tier 1 urls
+/**
+ * @name findTierTwoURLs
+ * @description Takes tier 3 url bodies and returns tier 2 urls
+ * @param {String} mybody - HTML Page Body
+ * @return {Array}
+ */
+function findTierTwoURLs(mybody) {
+  const regexT0URLS = /<div class="cat-list-deparment">[\S\s]*?"(.+)"\s/g;
+  const urls = [];
+  let matchURLs = [];
+  while (matchURLs = regexT0URLS.exec(mybody)) {
+    urls.push(protdom + matchURLs[1]);
+  }
+  return urls;
+}
+
+/**
+ * @name findTierTwoURLs
+ * @description Takes tier 2 url bodies and returns tier 1 urls
+ * @param {String} mybody - HTML Page Body
+ * @return {Array}
+ */
 function findTierOneURLs(mybody) {
   const regexPageURLS = /<div class="paging-container"[\S\s]*?<a href="([\S\s]*?)No=[0-9]+([\S\s]*?)"/;
   const regexAllPages = /<div class="pagenofn">[\S\s]*?of ([0-9]+)/;
@@ -105,7 +162,12 @@ function findTierOneURLs(mybody) {
   return urls;
 }
 
-// Takes tier 1 url bodies and returns food urls
+/**
+ * @name findTierTwoURLs
+ * @description Takes tier 1 url bodies and returns food urls
+ * @param {String} mybody - HTML Page Body
+ * @return {Array}
+ */
 function findFoodURLs(mybody) {
   const regexT0URLS = /<div class="cat-list-deparment">[\S\s]*?"(.+)"[\S\s]*?<\/div>/g;
   const urls = [];
@@ -116,12 +178,16 @@ function findFoodURLs(mybody) {
   return urls;
 }
 
-// Append nutrition information to testfile.txt
+/**
+ * @name scrapeNutrition
+ * @description Append nutrition information to HEBdatabase.txt
+ * @param {String} prodbody - HTML Page Body
+ */
 function scrapeNutrition(prodbody) {
   //elapsedTime('scrapeNutrition', new Date().getTime());
   const prod = [];
   for (let i = 0; i < titles.length; i++) prod.push(0);
-  prod[3] = ''; prod[56] = 'H-E-B'; prod[59] = '';
+  prod[3] = ' '; prod[56] = 'H-E-B'; prod[59] = ' ';
   const regexServ = /Serving Size[\S\s]*?([0-9.]+)[\S\s]*?([a-zA-Z]+)[\S\s]*?([0-9.]+)[\S\s]*?([0-9.]+)/g;
   const regexNut = /<td class="label[\S\s]*?([a-zA-Z\s]+)[\S\s]*?([0-9.]+)/g;
   const regexCal = /Calories<[\S\s]*?">([0-9.]+)/;
@@ -135,7 +201,7 @@ function scrapeNutrition(prodbody) {
   const aisleMatch = regexAisle.exec(prodbody);
   let nutMatches = [];
   prod[0] = id; id++;
-  if (descMatch != null) prod[1] = descMatch[1].replace(/\,/g, ' ');
+  if (descMatch != null) prod[1] = descMatch[1];
   if (calMatch != null) prod[6] = Number(calMatch[1]);
   if (priceMatch != null) prod[57] = Number(priceMatch[1]);
   if (aisleMatch != null) prod[59] = aisleMatch[1];
@@ -154,5 +220,5 @@ function scrapeNutrition(prodbody) {
       if (k >= 32) prod[k] = Number(nutMatches[2]*dvReqs[k]/100);
     }
   }
-  fs.appendFile('HEBdatabase.txt', prod + '\r\n');
+  fs.appendFile('HEBdatabase1.txt', prod + '\r\n');
 }
