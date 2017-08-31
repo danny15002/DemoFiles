@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Scrape Search</title>
+    <link rel="stylesheet" href="./stylesheet.css" />
+    <script src="./foodsearch.js" type="text/javascript"></script>
+  </head>
+  <body>
+    <header class='headclass'>
+      <h1>H-E-B Food Nutrition</h1>
+      <ul class='headerlist'>
+        <li><a href=''>Home</a></li>
+        <li><a href=''>About</a></li>
+        <li><a href=''>Contact</a></li>
+      <ul>
+    </header>
+    <table class="table2">
+        <tbody id="nutFactLabel">
+            <tr class="nutFactTitle">
+              <td colspan="2"><b>Nutrition Facts</b></td>
+            </tr>
+            <tr class="subtitle">
+                <td id="servSize">Serving Size 0g</td>
+                <td></td>
+            </tr>
+            <tr class="thickBotom">
+                <td class="stretch" id="sPC">Servings Per Container 1</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><b><small>Amount Per Serving</small></b></td>
+                <td></td>
+            </tr>
+            <tr class="cal">
+                <td id="nut5"><b>Calories</b> 0</td>
+                <td class="stretch" id="calFromFat">Calories from Fat 0</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td><b><small>% Daily Value*</small></b></td>
+            </tr>
+            <tr>
+                <td id="nut20"><b>Total Fat</b> 0g</td>
+                <td id="dv20"><b>0%</b></td>
+            </tr>
+            <tr>
+                <td class="micros" id="nut21">Saturated Fat 0g</td>
+                <td id="dv21"><b>0%</b></td>
+            </tr>
+            <tr>
+                <td class="micros" id="nut24">Trans Fat 0g</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="micros" id="nut23">Polyunsaturated Fat 0g</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="micros" id="nut22">Monounsaturated Fat 0g</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td id="nut25"><b>Cholesterol</b> 0mg</td>
+                <td id="dv25"><b>0%</b></td>
+            </tr>
+            <tr>
+                <td id="nut37"><b>Sodium</b> 0mg</td>
+                <td id="dv37"><b>0%</b></td>
+            </tr>
+            <tr>
+                <td id="nut36"><b>Potassium</b> 0mg</td>
+                <td id="dv36"><b>0%</b></td>
+            </tr>
+            <tr>
+                <td id="nut26"><b>Total Carbohydrate</b> 0g</td>
+                <td  id="dv26"><b>0%</b></td>
+            </tr>
+            <tr>
+                <td class="micros" id="nut27">Dietary Fiber 0g</td>
+                <td id="dv27"><b>0%</b></td>
+            </tr>
+            <tr>
+                <td class="micros" id="nut28">Sugar 0g</td>
+                <td></td>
+            </tr>
+            <tr class="thickBotom">
+                <td id="nut6"><b>Protein</b> 0g</td>
+                <td id="dv6"><b>0%</b></td>
+            </tr>
+            <tr>
+                <td colspan="2"><small>*Percent Daily Values are based on a
+                  2,000 calorie diet. Your daily values may be higher or lower
+                  depending on your calorie needs.</small></td>
+            </tr>
+        </tbody>
+    </table>
+    <table class='table1'>
+      <thead class="searchHead">
+        <tr>
+          <th>Food</th>
+          <th>Calories</th>
+          <th>Protein</th>
+          <th>Fat</th>
+        </tr>
+      </thead>
+      <tbody id="searchList">
+      </tbody>
+    </table>
+    <aside>
+      <h2>
+        <input id="searchbar" onchange="populateList()"></input>
+        <input onclick="populateList()" type="button" value="Search"></input>
+      </h2>
+      <ul>
+        <li><input type="radio" name="filter" value="atoz" checked>A-Z<br></li>
+        <li><input type="radio" name="filter" value="prot">Highest Protein<br></li>
+        <li><input type="radio" name="filter" value="fat">Highest Fat<br></li>
+      </ul>
+    </aside>
+    <footer>
+      <h3>Footer</h3>
+      <ul class='footerlist'><li><a href=''>Mike Dey</a></li><ul>
+    </footer>
+  </body>
+</html>

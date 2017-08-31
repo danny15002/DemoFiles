@@ -1,4 +1,4 @@
-const titles = [ 'Description', 'Measure', 'Measure Unit', 'Weight', 'Water',
+const titles = [ 'id', 'Description', 'Measure', 'Measure Unit', 'Weight', 'Water',
   'Calories', 'Protein', 'Alanine', 'Arginine', 'Cystine', 'Histidine',
   'Isoleucine', 'Leucine', 'Lysine', 'Methionine', 'Phenylalanine',
   'Threonine', 'Tryptophan', 'Tyrosine', 'Valine', 'Total Fat',
@@ -20,6 +20,7 @@ const fs = require('fs');
 const protdom = 'https://www.heb.com';
 const starturl = 'https://www.heb.com/category/shop/food-and-drinks/grocery/snacks-and-candy/dried-fruits-and-nuts/3080/3508';
 const t = [ new Date().getTime() ];
+let id = 0;
 
 // Execute promise statements in order of tiers
 promisifyTierTwoURLs(starturl)
@@ -33,12 +34,20 @@ function elapsedTime(func, tn) {
   console.log(func + ': ' + (tn-t[lastind])/1000 + 's');
   t.push(tn);
 }
-
+function showRejects(myarray) {
+  console.log(myarray);
+}
 // Promise to body content of url
 function promisifyRequest(url) {
   return new Promise((resolve, reject) => {
-    request(url, (err, resp, body) => {
-      if (err) return reject(err);
+    request(url, { timeout: 10000 }, (err, resp, body) => {
+      if (err) {
+        if (err.code === 'ESOCKETTIMEDOUT' || err.code === 'ETIMEDOUT') {
+          resolve(promisifyRequest(url));
+        } else {
+          return reject(err);
+        }
+      }
       return resolve(body);
     });
   });
@@ -73,10 +82,11 @@ function splitFoodURLs(foodurls) {
   foodurls = foodurls.reduce((a, b) => a.concat(b));
   foodurls.forEach(url => {
     promisifyRequest(url)
-    .then(scrapeNutrition)
-    .catch(err => {
-      fs.appendFile('unscrapedURLs.txt', url +'\r\n');
-    });
+      .then(scrapeNutrition)
+      .catch(err => {
+        fs.appendFile('ScrapeErrors.txt', url +'\r\n');
+        //splitFoodURLs( [[ url ]] );
+      });
   });
 }
 
@@ -108,10 +118,10 @@ function findFoodURLs(mybody) {
 
 // Append nutrition information to testfile.txt
 function scrapeNutrition(prodbody) {
-  elapsedTime('scrapeNutrition', new Date().getTime());
+  //elapsedTime('scrapeNutrition', new Date().getTime());
   const prod = [];
   for (let i = 0; i < titles.length; i++) prod.push(0);
-  prod[2] = ''; prod[55] = 'H-E-B'; prod[58] = '';
+  prod[3] = ''; prod[56] = 'H-E-B'; prod[59] = '';
   const regexServ = /Serving Size[\S\s]*?([0-9.]+)[\S\s]*?([a-zA-Z]+)[\S\s]*?([0-9.]+)[\S\s]*?([0-9.]+)/g;
   const regexNut = /<td class="label[\S\s]*?([a-zA-Z\s]+)[\S\s]*?([0-9.]+)/g;
   const regexCal = /Calories<[\S\s]*?">([0-9.]+)/;
@@ -124,16 +134,17 @@ function scrapeNutrition(prodbody) {
   const priceMatch = regexPrice.exec(prodbody);
   const aisleMatch = regexAisle.exec(prodbody);
   let nutMatches = [];
-  if (descMatch != null) prod[0] = descMatch[1];
-  if (calMatch != null) prod[5] = Number(calMatch[1]);
-  if (priceMatch != null) prod[56] = Number(priceMatch[1]);
-  if (aisleMatch != null) prod[58] = aisleMatch[1];
+  prod[0] = id; id++;
+  if (descMatch != null) prod[1] = descMatch[1].replace(/\,/g, ' ');
+  if (calMatch != null) prod[6] = Number(calMatch[1]);
+  if (priceMatch != null) prod[57] = Number(priceMatch[1]);
+  if (aisleMatch != null) prod[59] = aisleMatch[1];
   if (servMatches != null) {
     if (servMatches.length === 5) {
-      prod[1] = Number(servMatches[1]);
-      prod[2] = servMatches[2];
-      prod[3] = Number(servMatches[3]);
-      prod[57] = Number(servMatches[4]);
+      prod[2] = Number(servMatches[1]);
+      prod[3] = servMatches[2];
+      prod[4] = Number(servMatches[3]);
+      prod[58] = Number(servMatches[4]);
     }
   }
   while (nutMatches = regexNut.exec(prodbody)) {
