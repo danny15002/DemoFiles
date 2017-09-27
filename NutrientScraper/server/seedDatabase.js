@@ -10,7 +10,7 @@ const titles = [ 'id', 'Description', 'Measure', 'Measure_Unit', 'Weight',
   'Pantothenicacid', 'Vitamin_B6', 'Folate', 'Vitamin_B12', 'Vitamin_C',
   'Vitamin_D', 'Vitamin_E', 'Vitamin_K', 'Store', 'Price',
   'Servings_per_Container', 'Category' ];
-const connectToPSQL = require('./dbConnection');
+const connectToPSQL = require('./dbConnection.js');
 const fs = require('fs');
 const insertQuery = [];
 
@@ -37,7 +37,7 @@ for (let i = 2; i < titles.length; i++) {
  */
 function promisifyCompleteTable() {
   return new Promise((resolve, reject) => {
-    fs.readFile('./HEBdatabase.txt', 'utf8', (err, data) => {
+    fs.readFile('../database/HEBdatabase.txt', 'utf8', (err, data) => {
       if (err) return reject(err);
       return resolve(configureTableRows(data));
     });

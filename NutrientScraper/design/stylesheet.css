@@ -8,7 +8,10 @@ header, aside, section, footer {
   margin: 0;
 }
 
-aside { float: left; }
+aside {
+  float: left;
+  width: 25%;
+ }
 
 footer { clear: both; }
 
@@ -19,7 +22,6 @@ ul {
 }
 
 table {
-  float: right;
   border-collapse: collapse;
 }
 
@@ -32,51 +34,87 @@ li {
 
 .headerlist, .footerlist {
   display: inline-flex;
-  margin-left: 57px;
-  margin: 0 27% 0;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
 
-table.table1 thead, tbody { display: block; }
+table.table1 {
+  float: left;
+  width: 640px;
+  margin: 0 5% 10% 5%;
+  text-align: center;
+  table-layout: fixed;
+    /* padding: 5px; */
+ }
+
+ table.table1 thead, tbody {
+  display: block;
+  overflow-y: auto;
+  overflow-x: hidden;
+ }
 
 table.table1 tbody {
-    height: 50px;
-    overflow-y: auto;
-    overflow-x: hidden;
+  height: 140px;
+  width: 665px;
+
 }
 
-table.table1 { margin: 0 100px 0 0; }
+table.table1 thead {
+  margin-right: auto;
+}
 
-table.searchHead tr { border-bottom: 2px solid black; }
 
-table.table1 th:first-child, td:first-child {
+table.table1 th:first-child {
   padding: 5px;
-  width: 400px;
+  width: 300px;
   border-left: 0;
+  table-layout: fixed;
 }
 
-table.table1 th:not(:first-child), td:not(:first-child) {
+table.table1 th:not(:first-child) {
   padding: 5px;
   width: 100px;
 }
 
-table.table1 td:first-child { text-align: left; }
+table.table1 td:first-child {
+  padding: 5px;
+  width: 300px;
+  border-left: 0;
+}
 
-table.table1 td:not(:first-child) { text-align: center; }
+table.table1 td:not(:first-child) {
+  padding: 5px;
+  width: 100px;
+}
+
+table.table1 td:first-child {
+  text-align: left;
+ }
 
 .headclass {
-  width: 30%;
-  margin-left: 35%;
-  margin-right: 35%;
+  width: 60%;
+  margin-left: 20%;
+  margin-right: 20%;
   margin-bottom: 15px;
   float: left;
+  text-align: center;
 }
 
 h1 {
   margin: 0;
-  text-align: center;
 }
 
+table.searchHead tr {
+  border-bottom: 2px solid black;
+  position: relative;
+ }
+
 table.table2 {
+  clear: both;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
   font-family: arial, sans-serif;
   border-style: double;
   border: 7px solid black;
@@ -119,3 +157,6 @@ table tr.cal { border-bottom: 5px solid black; }
 table td.stretch { width: 60%; }
 
 table td.micros { text-indent: 10px; }
+
+
+tbody#searchList {}
