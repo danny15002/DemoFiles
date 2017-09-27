@@ -10,7 +10,7 @@ const titles = [ 'id', 'Description', 'Measure', 'Measure Unit', 'Weight', 'Wate
   'Pantothenicacid', 'Vitamin B6', 'Folate', 'Vitamin B12', 'Vitamin C',
   'Vitamin D', 'Vitamin E', 'Vitamin K', 'Store', 'Price',
   'Servings per Container', 'Category' ];
-const dvReqs = [ 0, 0, 0, 0, 0, 2000, 50, 0, 0, 0.00185973092, 0.00453592909,
+const dvReqs = [ 0, 0, 0, 0, 0, 0, 2000, 50, 0, 0, 0.00185973092, 0.00453592909,
   0.00907185818, 0.01769012346, 0.01360778728, 0.00471736625, 0.00566991136,
   0.00680389364, 0.00181437163, 0.00566991136, 0.01179341564, 65, 20, 22.5,
   22.5, 0, 300, 300, 25, 20, 0, 0, 0, 1000, 18, 400, 1000, 3500, 2400, 15, 2,
@@ -19,6 +19,7 @@ const request = require('request');
 const fs = require('fs');
 const protdom = 'https://www.heb.com';
 const starturl = 'https://www.heb.com/category/shop/food-and-drinks/grocery/snacks-and-candy/dried-fruits-and-nuts/3080/3508';
+// const starturl = 'https://www.heb.com/category/shop/food-and-drinks/grocery/snacks-and-candy/dried-fruits-and-nuts/3080/3508?N=10314&No=70&Nrpp=35&prodFilter=none';
 const t = [ new Date().getTime() ];
 let id = 0;
 
@@ -85,7 +86,6 @@ function splitFoodURLs(foodurls) {
       .then(scrapeNutrition)
       .catch(err => {
         fs.appendFile('ScrapeErrors.txt', url +'\r\n');
-        //splitFoodURLs( [[ url ]] );
       });
   });
 }
@@ -107,7 +107,7 @@ function findTierOneURLs(mybody) {
 
 // Takes tier 1 url bodies and returns food urls
 function findFoodURLs(mybody) {
-  const regexT0URLS = /<div class="cat-list-deparment">[\S\s]*?"(.+)"[\S\s]*?<\/div>/g;
+  const regexT0URLS = /<div class="responsivegriditem__title">[\S\s]*?"(.+)"[\S\s]*?<\/div>/g;
   const urls = [];
   let t0URLMatches = [];
   while (t0URLMatches = regexT0URLS.exec(mybody)) {
@@ -136,7 +136,9 @@ function scrapeNutrition(prodbody) {
   let nutMatches = [];
   prod[0] = id; id++;
   if (descMatch != null) prod[1] = descMatch[1].replace(/\,/g, ' ');
-  if (calMatch != null) prod[6] = Number(calMatch[1]);
+  if (calMatch != null) {
+    prod[6] = Number(calMatch[1]);
+  }
   if (priceMatch != null) prod[57] = Number(priceMatch[1]);
   if (aisleMatch != null) prod[59] = aisleMatch[1];
   if (servMatches != null) {
@@ -149,9 +151,10 @@ function scrapeNutrition(prodbody) {
   }
   while (nutMatches = regexNut.exec(prodbody)) {
     let k = titles.indexOf(nutMatches[1]);
-    if (k > -1 && k != 5) {
-      if (k < 32) prod[k] = Number(nutMatches[2]);
-      if (k >= 32) prod[k] = Number(nutMatches[2]*dvReqs[k]/100);
+    if (k > -1 && k != 6 && prod[k] === 0) {
+      if (k < 32 || k === 37 || k === 38 ) {
+        prod[k] = Number(nutMatches[2]);
+      } else prod[k] = Number(nutMatches[2]*dvReqs[k]/100);
     }
   }
   fs.appendFile('HEBdatabase.txt', prod + '\r\n');
