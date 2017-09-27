@@ -44,13 +44,16 @@ class FoodsController {
     const food = new Food(this.parameters, this.dbClient);
     return food.showFood()
       .then(rows => {
-        return rows.map(row => {
-          return stringifyRow(row);
-        });
-      })
-      .then(string => {
-        return string.join('');
+        return JSON.stringify(rows);
       });
+      // .then(rows => {
+      //   return rows.map(row => {
+      //     return stringifyRow(row);
+      //   });
+      // })
+      // .then(string => {
+      //   return string.join('');
+      // });
   }
 
   /**

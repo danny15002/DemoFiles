@@ -1,4 +1,5 @@
 const FoodsController = require('../controllers/FoodsController.js');
+const fs = require('fs');
 
 /**
  * @name getRouter
@@ -22,12 +23,34 @@ function getRouter(dbConnection) {
         return JSON.parse(reqBody);
       })
       .then(json => {
-        if (url.match(/\/foods/)) {
+        if (url === '/') {
+          return new Promise((resolve, reject) => {
+            fs.readFile('./design/index.html', 'utf-8', (err, data) => {
+              if (err) return reject(err);
+              return resolve(data);
+            });
+          });
+        } else if (url.match(/\/stylesheet/)) {
+          return new Promise((resolve, reject) => {
+            fs.readFile('./design/stylesheet.css', 'utf-8', (err, data) => {
+              if (err) return reject(err);
+              return resolve(data);
+            });
+          });
+        } else if (url.match(/\/foodsearch/)) {
+          return new Promise((resolve, reject) => {
+            fs.readFile('./design/foodsearch.js', 'utf-8', (err, data) => {
+              if (err) return reject(err);
+              return resolve(data);
+            });
+          });
+        } else if (url.match(/\/foods/)) {
           return routeFoods(json, url, method, dbConnection);
-        } else res.write('you requested: ' + url);
+        } else return 'you requested: ' + url;
       })
       .then(responsePayload => {
-        res.writeHead(200, { 'Content-Type': 'text/html' });
+        res.writeHead(200);
+        // res.writeHead(200, { 'Content-Type': 'text/html' });
         res.write(responsePayload);
         res.end();
       })

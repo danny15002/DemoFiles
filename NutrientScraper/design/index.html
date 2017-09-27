@@ -15,6 +15,29 @@
         <li><a href=''>Contact</a></li>
       <ul>
     </header>
+    <aside>
+      <h2>
+        <input id="searchbar" onchange="populateList()"></input>
+        <input onclick="populateList()" type="button" value="Search"></input>
+      </h2>
+      <ul>
+        <li><input type="radio" name="filter" value="atoz" checked>A-Z<br></li>
+        <li><input type="radio" name="filter" value="prot">Highest Protein<br></li>
+        <li><input type="radio" name="filter" value="fat">Highest Fat<br></li>
+      </ul>
+    </aside>
+    <table class='table1'>
+      <thead class="searchHead">
+        <tr>
+          <th>Food</th>
+          <th>Calories</th>
+          <th>Protein</th>
+          <th>Fat</th>
+        </tr>
+      </thead>
+      <tbody id="searchList">
+      </tbody>
+    </table>
     <table class="table2">
         <tbody id="nutFactLabel">
             <tr class="nutFactTitle">
@@ -95,29 +118,6 @@
             </tr>
         </tbody>
     </table>
-    <table class='table1'>
-      <thead class="searchHead">
-        <tr>
-          <th>Food</th>
-          <th>Calories</th>
-          <th>Protein</th>
-          <th>Fat</th>
-        </tr>
-      </thead>
-      <tbody id="searchList">
-      </tbody>
-    </table>
-    <aside>
-      <h2>
-        <input id="searchbar" onchange="populateList()"></input>
-        <input onclick="populateList()" type="button" value="Search"></input>
-      </h2>
-      <ul>
-        <li><input type="radio" name="filter" value="atoz" checked>A-Z<br></li>
-        <li><input type="radio" name="filter" value="prot">Highest Protein<br></li>
-        <li><input type="radio" name="filter" value="fat">Highest Fat<br></li>
-      </ul>
-    </aside>
     <footer>
       <h3>Footer</h3>
       <ul class='footerlist'><li><a href=''>Mike Dey</a></li><ul>
