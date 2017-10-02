@@ -23,6 +23,7 @@ function getRouter(dbConnection) {
         return JSON.parse(reqBody);
       })
       .then(json => {
+        // Switch?
         if (url === '/') {
           return new Promise((resolve, reject) => {
             fs.readFile('./design/index.html', 'utf-8', (err, data) => {
@@ -44,8 +45,11 @@ function getRouter(dbConnection) {
               return resolve(data);
             });
           });
+        } else if (url.match(/foodSearch\?.+/)) {
+            const searchInput = url.split('?query=')[1];
+            return routeFoods(json, url, method, dbConnection, searchInput);
         } else if (url.match(/\/foods/)) {
-          return routeFoods(json, url, method, dbConnection);
+            return routeFoods(json, url, method, dbConnection, '');
         } else return 'you requested: ' + url;
       })
       .then(responsePayload => {
@@ -69,13 +73,13 @@ function getRouter(dbConnection) {
  * @param {String} method
  * @param {Object} dbConnection
  */
-function routeFoods(json, url, method, dbConnection) {
+function routeFoods(json, url, method, dbConnection, searchInput) {
   const foodsController = new FoodsController(json, dbConnection);
   if (method === 'POST') {
     const responsePayload = foodsController.create();
     return responsePayload;
   } else if (method === 'GET') {
-    const responsePayload = foodsController.show();
+    const responsePayload = foodsController.show(searchInput);
     return responsePayload;
   }
 }
