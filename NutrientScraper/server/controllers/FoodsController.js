@@ -40,9 +40,9 @@ class FoodsController {
    * @description gets specified user
    * @return {JSON}
    */
-  show() {
+  show(searchInput) {
     const food = new Food(this.parameters, this.dbClient);
-    return food.showFood()
+    return food.showFood(searchInput)
       .then(rows => {
         return JSON.stringify(rows);
       });
