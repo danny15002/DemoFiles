@@ -17,14 +17,18 @@ const units = [ '', '', '', '', 'g', 'g', '', 'g', 'g', 'g', 'g', 'g', 'g', 'g',
   'mg', 'IU', 'mg', '&#956g', '', '$', '', '' ];
 
 function populateList() {
-  fetch('/foods', {
+  const searchWords = document.getElementById('searchbar').value;
+  const searchList = document.getElementById('searchList');
+  while (searchList.firstChild) {
+    searchList.removeChild(searchList.firstChild);
+  }
+  const url = '/foodSearch?query=' + searchWords;
+  fetch(url, {
     method: 'GET'
   }).then(response => {
     return response.json();
   }).then(text => {
-    console.log(text);
     for (let i = 0; i < text.length; i++) {
-      const searchList = document.getElementById('searchList');
       const trnode = document.createElement('tr');
       const tddesc = document.createElement('td');
       const tdcal = document.createElement('td');
@@ -34,8 +38,14 @@ function populateList() {
       const cal = document.createTextNode(text[i].calories);
       const prot = document.createTextNode(text[i].protein);
       const fat = document.createTextNode(text[i].total_fat);
+      const a = document.createElement('a');
 
-      tddesc.appendChild(desc);
+      // a.href = '/searchword='+searchWords;
+      a.onclick = populateLabel();
+      a.appendChild(desc);
+
+      tddesc.appendChild(a);
+      // tddesc.onclick = populateLabel();
       tdcal.appendChild(cal);
       tdprot.appendChild(prot);
       tdfat.appendChild(fat);
@@ -48,4 +58,8 @@ function populateList() {
       searchList.appendChild(trnode);
     }
   });
+}
+
+function populateLabel() {
+  // console.log('Test');
 }

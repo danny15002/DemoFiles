@@ -96,8 +96,8 @@ class Foods {
    * @description gets specified user
    * @return {Object}
    */
-  showFood() {
-    return promisifyRows(this.dbClient)
+  showFood(searchInput) {
+    return promisifyRows(this.dbClient, searchInput)
       .then(rows => {
         return rows;
       });
