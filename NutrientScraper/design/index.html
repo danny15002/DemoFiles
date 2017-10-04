@@ -2,8 +2,9 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Scrape Search</title>
+    <title>Food Search</title>
     <link rel="stylesheet" href="./stylesheet.css" />
+    <link rel="shortcut icon" href="./favicon.ico"/>
     <script src="./foodsearch.js" type="text/javascript"></script>
   </head>
   <body>
@@ -20,10 +21,10 @@
         <input id="searchbar" onchange="populateList()"></input>
         <input onclick="populateList()" type="button" value="Search"></input>
       </h2>
-      <ul>
-        <li><input type="radio" name="filter" value="atoz" checked>A-Z<br></li>
-        <li><input type="radio" name="filter" value="prot">Highest Protein<br></li>
-        <li><input type="radio" name="filter" value="fat">Highest Fat<br></li>
+      <ul onchange="populateList()">
+        <input type="radio" name="sort" value="description" checked>A-Z<br>
+        <input type="radio" name="sort" value="protein DESC">Highest Protein<br>
+        <input type="radio" name="sort" value="total_fat DESC">Highest Fat<br>
       </ul>
     </aside>
     <table class='table1'>
@@ -44,11 +45,21 @@
               <td colspan="2"><b>Nutrition Facts</b></td>
             </tr>
             <tr class="subtitle">
-                <td id="servSize">Serving Size 0g</td>
+                <td colspan="2">
+                  <div id="description"></div>
+                  ($<div id="price"></div>)
+                </td>
+            </tr>
+            <tr class="subtitle">
+                <td>Serving Size
+                  <div id="measure"></div>
+                  <div id="measure_unit"></div>
+                  (<div id="weight">0</div>g)
+                </td>
                 <td></td>
             </tr>
             <tr class="thickBotom">
-                <td class="stretch" id="sPC">Servings Per Container 1</td>
+                <td class="stretch">Servings Per Container <div id="servings_per_container">0</div></td>
                 <td></td>
             </tr>
             <tr>
@@ -56,60 +67,100 @@
                 <td></td>
             </tr>
             <tr class="cal">
-                <td id="nut5"><b>Calories</b> 0</td>
-                <td class="stretch" id="calFromFat">Calories from Fat 0</td>
+                <td><b>Calories</b> <div id="calories">0</div></td>
+                <td class="stretch">Calories from Fat <div id="calFromFat">0</div></td>
             </tr>
             <tr>
               <td></td>
               <td><b><small>% Daily Value*</small></b></td>
             </tr>
             <tr>
-                <td id="nut20"><b>Total Fat</b> 0g</td>
-                <td id="dv20"><b>0%</b></td>
+                <td><b>Total Fat</b> <div id="total_fat">0</div>g</td>
+                <td><b><div id="dv_total_fat">0</div>%</b></td>
             </tr>
             <tr>
-                <td class="micros" id="nut21">Saturated Fat 0g</td>
-                <td id="dv21"><b>0%</b></td>
+                <td class="micros">Saturated Fat <div id="saturated_fat">0</div>g</td>
+                <td><b><div id="dv_saturated_fat">0</div>%</b></td>
             </tr>
             <tr>
-                <td class="micros" id="nut24">Trans Fat 0g</td>
+                <td class="micros">Trans Fat <div id="trans_fat">0</div>g</td>
                 <td></td>
             </tr>
             <tr>
-                <td class="micros" id="nut23">Polyunsaturated Fat 0g</td>
+                <td class="micros">Polyunsaturated Fat <div id="polyunsaturated_fat">0</div>g</td>
                 <td></td>
             </tr>
             <tr>
-                <td class="micros" id="nut22">Monounsaturated Fat 0g</td>
+                <td class="micros">Monounsaturated Fat <div id="monounsaturated_fat">0</div>g</td>
                 <td></td>
             </tr>
             <tr>
-                <td id="nut25"><b>Cholesterol</b> 0mg</td>
-                <td id="dv25"><b>0%</b></td>
+                <td><b>Cholesterol</b> <div id="cholesterol">0</div>mg</td>
+                <td><b><div id="dv_cholesterol">0</div>%</b></td>
             </tr>
             <tr>
-                <td id="nut37"><b>Sodium</b> 0mg</td>
-                <td id="dv37"><b>0%</b></td>
+                <td><b>Sodium</b> <div id="sodium">0</div>mg</td>
+                <td><b><div id="dv_sodium">0</div>%</b></td>
             </tr>
             <tr>
-                <td id="nut36"><b>Potassium</b> 0mg</td>
-                <td id="dv36"><b>0%</b></td>
+                <td><b>Potassium</b> <div id="potassium">0</div>mg</td>
+                <td><b><div id="dv_potassium">0</div>%</b></td>
             </tr>
             <tr>
-                <td id="nut26"><b>Total Carbohydrate</b> 0g</td>
-                <td  id="dv26"><b>0%</b></td>
+                <td><b>Total Carbohydrate</b> <div id="total_carbohydrate">0</div>g</td>
+                <td><b><div id="dv_total_carbohydrate">0</div>%</b></td>
             </tr>
             <tr>
-                <td class="micros" id="nut27">Dietary Fiber 0g</td>
-                <td id="dv27"><b>0%</b></td>
+                <td class="micros">Dietary Fiber <div id="dietary_fiber">0</div>g</td>
+                <td><b><div id="dv_dietary_fiber">0</div>%</b></td>
             </tr>
             <tr>
-                <td class="micros" id="nut28">Sugar 0g</td>
+                <td class="micros">Sugars <div id="sugars">0</div>g</td>
                 <td></td>
             </tr>
             <tr class="thickBotom">
-                <td id="nut6"><b>Protein</b> 0g</td>
-                <td id="dv6"><b>0%</b></td>
+                <td><b>Protein</b> <div id="protein">0</div>g</td>
+                <td><b><div id="dv_protein">0</div>%</b></td>
+            </tr>
+            <tr>
+                <td>Calcium <div id="dv_calcium">0</div>%</td>
+                <td>Iron <div id="dv_iron">0</div>%</td>
+            </tr>
+            <tr>
+                <td>Magnesium <div id="dv_magnesium">0</div>%</td>
+                <td>Phosphorus <div id="dv_phosphorus">0</div>%</td>
+            </tr>
+            <tr>
+                <td>Zinc <div id="dv_zinc">0</div>%</td>
+                <td>Copper <div id="dv_copper">0</div>%</td>
+            </tr>
+            <tr>
+                <td>Manganese <div id="dv_manganese">0</div>%</td>
+                <td>Selenium <div id="dv_selenium">0</div>%</td>
+            </tr>
+            <tr>
+                <td>Vitamin A <div id="dv_vitamin_a">0</div>%</td>
+                <td>Thiamin <div id="dv_thiamin">0</div>%</td>
+            </tr>
+            <tr>
+                <td>Riboflavin <div id="dv_riboflavin">0</div>%</td>
+                <td>Niacin <div id="dv_niacin">0</div>%</td>
+            </tr>
+            <tr>
+                <td>Pantothenic Acid <div id="dv_pantothenic_acid">0</div>%</td>
+                <td>Vitamin B6 <div id="dv_vitamin_b6">0</div>%</td>
+            </tr>
+            <tr>
+                <td>Folate <div id="dv_folate">0</div>%</td>
+                <td>Vitamin B12 <div id="dv_vitamin_b12">0</div>%</td>
+            </tr>
+            <tr>
+                <td>Vitamin C <div id="dv_vitamin_c">0</div>%</td>
+                <td>Vitamin D <div id="dv_vitamin_d">0</div>%</td>
+            </tr>
+            <tr>
+                <td>Vitamin E <div id="dv_vitamin_e">0</div>%</td>
+                <td>Vitamin K <div id="dv_vitamin_k">0</div>%</td>
             </tr>
             <tr>
                 <td colspan="2"><small>*Percent Daily Values are based on a
