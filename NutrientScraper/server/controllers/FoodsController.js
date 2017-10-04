@@ -40,20 +40,12 @@ class FoodsController {
    * @description gets specified user
    * @return {JSON}
    */
-  show(searchInput) {
+  show(searchInput, sortType) {
     const food = new Food(this.parameters, this.dbClient);
-    return food.showFood(searchInput)
+    return food.showFood(searchInput, sortType)
       .then(rows => {
         return JSON.stringify(rows);
       });
-      // .then(rows => {
-      //   return rows.map(row => {
-      //     return stringifyRow(row);
-      //   });
-      // })
-      // .then(string => {
-      //   return string.join('');
-      // });
   }
 
   /**

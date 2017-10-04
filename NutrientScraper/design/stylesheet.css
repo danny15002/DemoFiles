@@ -21,6 +21,10 @@ ul {
   padding: 0px;
 }
 
+div {
+  display: inline-block;
+  text-indent: 0;
+}
 table {
   border-collapse: collapse;
 }
@@ -109,6 +113,7 @@ table.table2 {
   border-style: double;
   border: 7px solid black;
   width: 380px;
+  font-size: 12px;
 }
 
 table.table2 td:nth-child(odd) {
@@ -140,6 +145,10 @@ table tr.subtitle {
   border-bottom: 0;
 }
 
+.vitmin {
+  visibility: hidden;
+}
+
 table tr.thickBotom { border-bottom: 10px solid black; }
 
 table tr.cal { border-bottom: 5px solid black; }
@@ -148,5 +157,6 @@ table td.stretch { width: 60%; }
 
 table td.micros { text-indent: 10px; }
 
-
 tbody#searchList {}
+
+table.table2 {}

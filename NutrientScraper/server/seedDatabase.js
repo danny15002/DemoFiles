@@ -7,7 +7,7 @@ const titles = [ 'id', 'Description', 'Measure', 'Measure_Unit', 'Weight',
   'Alcohol', 'Caffeine', 'Calcium', 'Iron', 'Magnesium', 'Phosphorus',
   'Potassium', 'Sodium', 'Zinc', 'Copper', 'Manganese', 'Selenium',
   'Fluoride', 'Vitamin_A', 'Thiamin', 'Riboflavin', 'Niacin',
-  'Pantothenicacid', 'Vitamin_B6', 'Folate', 'Vitamin_B12', 'Vitamin_C',
+  'Pantothenic_acid', 'Vitamin_B6', 'Folate', 'Vitamin_B12', 'Vitamin_C',
   'Vitamin_D', 'Vitamin_E', 'Vitamin_K', 'Store', 'Price',
   'Servings_per_Container', 'Category' ];
 const connectToPSQL = require('./dbConnection.js');
@@ -37,7 +37,7 @@ for (let i = 2; i < titles.length; i++) {
  */
 function promisifyCompleteTable() {
   return new Promise((resolve, reject) => {
-    fs.readFile('../database/HEBdatabase.txt', 'utf8', (err, data) => {
+    fs.readFile('../NutrientScraper/database/HEBdatabase.txt', 'utf8', (err, data) => {
       if (err) return reject(err);
       return resolve(configureTableRows(data));
     });
