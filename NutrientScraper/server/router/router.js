@@ -45,11 +45,20 @@ function getRouter(dbConnection) {
               return resolve(data);
             });
           });
+        } else if (url.match(/\/favicon/)) {
+          return new Promise((resolve, reject) => {
+            fs.readFile('./design/favicon.ico', (err, data) => {
+              if (err) return reject(err);
+              return resolve(data);
+            });
+          });
         } else if (url.match(/foodSearch\?.+/)) {
-            const searchInput = url.split('?query=')[1];
-            return routeFoods(json, url, method, dbConnection, searchInput);
+          const split = url.split('?query=')[1].split('&sort=');
+          const searchInput = decodeURIComponent(split[0]);
+          const sortType = decodeURIComponent(split[1]);
+          return routeFoods(json, url, method, dbConnection, searchInput, sortType);
         } else if (url.match(/\/foods/)) {
-            return routeFoods(json, url, method, dbConnection, '');
+          return routeFoods(json, url, method, dbConnection, '', 'atoz');
         } else return 'you requested: ' + url;
       })
       .then(responsePayload => {
@@ -73,13 +82,13 @@ function getRouter(dbConnection) {
  * @param {String} method
  * @param {Object} dbConnection
  */
-function routeFoods(json, url, method, dbConnection, searchInput) {
+function routeFoods(json, url, method, dbConnection, searchInput, sortType) {
   const foodsController = new FoodsController(json, dbConnection);
   if (method === 'POST') {
     const responsePayload = foodsController.create();
     return responsePayload;
   } else if (method === 'GET') {
-    const responsePayload = foodsController.show(searchInput);
+    const responsePayload = foodsController.show(searchInput, sortType);
     return responsePayload;
   }
 }
