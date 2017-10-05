@@ -71,7 +71,7 @@ class Foods {
 
   /**
    * @name constructor
-   * @description initializes User object
+   * @description initializes Food object
    * @param {Object} parameters - query or body parameters for request
    * @param {Object} dbClient - client for database connection
    */
@@ -82,20 +82,21 @@ class Foods {
 
   /**
    * @name createUser
-   * @description creates a new user in the database
+   * @description creates a new food in the database
    * @param {Array} foodArray array with all nutrition information
    * @return {Object}
    */
   createFood() {
-    this.newfood = "chicken";
-    return this.newfood;
+    return {};
   }
 
-  /**
-   * @name showFood
-   * @description gets specified user
-   * @return {Object}
-   */
+   /**
+    * @name showFood
+    * @description gets specified food
+    * @param {String} searchInput - Search input from client
+    * @param {String} sortType - Sort type from client
+    * @return {JSON}
+    */
   showFood(searchInput, sortType) {
     return promisifyRows(this.dbClient, searchInput, sortType)
       .then(rows => {
@@ -105,7 +106,7 @@ class Foods {
 
   /**
    * @name updateFood
-   * @description edits existing user
+   * @description edits existing food
    * @return {JSON}
    */
   updateFood() {
@@ -114,7 +115,7 @@ class Foods {
 
   /**
    * @name destroyFood
-   * @description deletes specified user
+   * @description deletes specified food
    * @return {JSON}
    */
   destroyFood() {
