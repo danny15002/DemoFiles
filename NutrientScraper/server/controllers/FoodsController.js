@@ -1,5 +1,4 @@
 const Food = require('../models/Foods.js');
-const stringifyRow = require('../utils/stringifyRow.js');
 
 /** defines user controller **/
 class FoodsController {
@@ -17,7 +16,7 @@ class FoodsController {
 
   /**
    * @name index
-   * @description default user controller method
+   * @description default food controller method
    * @return {JSON}
    */
   index() {
@@ -26,7 +25,7 @@ class FoodsController {
 
   /**
    * @name create
-   * @description creates new user
+   * @description creates new food
    * @return {JSON}
    */
   create() {
@@ -37,8 +36,10 @@ class FoodsController {
 
   /**
    * @name show
-   * @description gets specified user
-   * @return {JSON}
+   * @description gets specified food
+   * @param {String} searchInput - Search input from client
+   * @param {String} sortType - Sort type from client
+   * @return {String}
    */
   show(searchInput, sortType) {
     const food = new Food(this.parameters, this.dbClient);
@@ -67,16 +68,5 @@ class FoodsController {
   }
 
 }
-
-/**
- * @name extractUserParameters
- * @description private function to grab required info for user
- * @param {Object} req - an incoming http request
- * @return {Object}
- */
-function extractUserParameters(req) {
-
-}
-
 
 module.exports = FoodsController;

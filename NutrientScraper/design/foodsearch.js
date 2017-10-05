@@ -3,6 +3,11 @@ const dvReqs = [ 0, 0, 0, 0, 0, 0, 2000, 50, 0, 0, 0.00185973092, 0.00453592909,
   0.00680389364, 0.00181437163, 0.00566991136, 0.01179341564, 65, 20, 22.5,
   22.5, 0, 300, 300, 25, 20, 0, 0, 0, 1000, 18, 400, 1000, 3500, 2400, 15, 2,
   2, 70, 0, 5000, 1.5, 1.7, 20, 10, 2, 400, 6, 60, 400, 27, 80 ];
+
+/**
+ * @name populateList
+ * @description Fetches client-side requests and populates tables
+ */
 function populateList() {
   const searchWords = document.getElementById('searchbar').value;
   const sort = document.getElementsByName('sort');
@@ -68,14 +73,3 @@ function populateList() {
     }
   });
 }
-
-// function fixLabel(label) {
-//   label = label.split('_');
-//   let newString = '';
-//   for (let i = 0; i < label.length; i++) {
-//     if (i < label.length - 1) {
-//       newString += label[i].charAt(0).toUpperCase() + label[i].slice(1) + ' ';
-//     } else newString += label[i].charAt(0).toUpperCase() + label[i].slice(1);
-//   }
-//   return newString;
-// }

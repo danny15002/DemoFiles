@@ -82,6 +82,18 @@ function getRouter(dbConnection) {
  * @param {String} method
  * @param {Object} dbConnection
  */
+
+ /**
+  * @name routeFoods
+  * @description call appropriate food controller method
+  * @param {JSON} json - json of client data
+  * @param {String} url - url
+  * @param {String} method - Method to be called by router
+  * @param {Object} dbConnection - Database connection Object
+  * @param {String} searchInput - Client search input
+  * @param {String} sortType - Client sort type
+  * @return {String}
+  */
 function routeFoods(json, url, method, dbConnection, searchInput, sortType) {
   const foodsController = new FoodsController(json, dbConnection);
   if (method === 'POST') {
