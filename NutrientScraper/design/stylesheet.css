@@ -13,6 +13,12 @@ aside {
   width: 25%;
  }
 
+aside.SignIn {
+  float: right;
+  width: 15%;
+  text-align: right;
+ }
+
 footer { clear: both; }
 
 ul {
@@ -89,7 +95,7 @@ table.table1 td:first-child {
 .headclass {
   width: 60%;
   margin-left: 20%;
-  margin-right: 20%;
+  margin-right: 5%;
   margin-bottom: 15px;
   float: left;
   text-align: center;
@@ -156,7 +162,3 @@ table tr.cal { border-bottom: 5px solid black; }
 table td.stretch { width: 60%; }
 
 table td.micros { text-indent: 10px; }
-
-tbody#searchList {}
-
-table.table2 {}
