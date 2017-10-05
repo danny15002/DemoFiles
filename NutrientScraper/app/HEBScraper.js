@@ -154,7 +154,7 @@ function scrapeNutrition(prodbody) {
     if (k > -1 && k != 6 && prod[k] === 0) {
       if (k < 32 || k === 37 || k === 38 ) {
         prod[k] = Number(nutMatches[2]);
-      } else prod[k] = Number(nutMatches[2]*dvReqs[k]/100);
+      } else if(dvReqs[k] !== 0) prod[k] = Number(nutMatches[2]*dvReqs[k]/100);
     }
   }
   fs.appendFile('HEBdatabase.txt', prod + '\r\n');
